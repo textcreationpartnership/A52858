@@ -1,0 +1,2242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romes follies, or, The amorous fryars a comedy, as it was lately acted at a person of qualitie's house.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 106 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52858</idno>
+            <idno type="STC">Wing N52</idno>
+            <idno type="STC">ESTC R5200</idno>
+            <idno type="EEBO-CITATION">12025034</idno>
+            <idno type="OCLC">ocm 12025034</idno>
+            <idno type="VID">52623</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52858)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52623)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 571:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Romes follies, or, The amorous fryars a comedy, as it was lately acted at a person of qualitie's house.</title>
+                  <author>Nowell, N.</author>
+               </titleStmt>
+               <extent>[6], 58 [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. Nowell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed N.N., probably the publisher, N. Nowell.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52623:1" rendition="simple:additions"/>
+            <p>Romes Follies, Or the Amorous FRYARS, A COMEDY.</p>
+            <p>As it was lately Acted at a Perſon of Qualitie's HOUSE.</p>
+            <p>
+               <hi>LONDON</hi> Printed, for <hi>N. Nowell,</hi> 1681</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:52623:2"/>
+            <pb facs="tcp:52623:2"/>
+            <head>To the Right Honourable, <hi>Anthony Aſh<g ref="char:EOLhyphen"/>ley Cooper,</hi> Earl of <hi>Shaftsbury,</hi> Baron <hi>Aſhley</hi> of <hi>Wimborn</hi> and St. <hi>Giles,</hi> and Lord <hi>Cooper</hi> of <hi>Pawlet;</hi> and to the Right Honourable <hi>William,</hi> Lord <hi>Howard,</hi> Baron of <hi>Eſcrick.</hi>
+            </head>
+            <opener>
+               <salute>My LORDS,</salute>
+            </opener>
+            <p>IT hath been the humor of moſt Writers in our Age, to magnify their Patrons ſo far above the Sphere of Nature, as to make of them more than Demi-Gods; and with thoſe ſervile glitterings of Flattery have they endea<g ref="char:EOLhyphen"/>voured to be for ever cheriſhed in the Breaſts of the Great. But my Lords, as it is againſt my Temper to dip my pen in ſuch faſhionable oyl, ſo am I ſenſible your virtues need not that varniſhed Luſtre, But Truth needs no Gloſs, and She hath taken care to illuſtrate your worths to the whole Nation. It is She that ſaith you have ever appeared active
+<pb facs="tcp:52623:3"/>
+for the publick ſafety, without the leaſt ſhadow of any ſiniſter deſign. It is She that ſaith it was your wiſdoms unravel<g ref="char:EOLhyphen"/>led the black and damnable Conſpira<g ref="char:EOLhyphen"/>cies of our Enemies againſt our Gracious King and Government, and prudently endeavoured to defeat thoſe miſchiefs which were coming upon us; and for your Recompence, their Revenge Shrowded you in a bewailed Confine<g ref="char:EOLhyphen"/>ment for a time; but now you are freed from that injurious Eclyps, and now your Innocencies Triumph again. The hand of Providence hath wonderfully ſha<g ref="char:EOLhyphen"/>med and confounded the Nation's and your Enemies, who may now bluſh at their Actions, and, holding down their Heads diſconſolately, cry out, <hi>the Snare we have laid for others, we are fallen into our ſelves.</hi> I queſtion not, but theſe ſor<g ref="char:EOLhyphen"/>did, whymſical and ridiculous Contri<g ref="char:EOLhyphen"/>vances of theirs, have created many Con<g ref="char:EOLhyphen"/>verts, and that thoſe whoſe eyes were but half open before, do now ſee as plain
+<pb facs="tcp:52623:3"/>
+as the Sun is viſible to them at Noon, that Plots, and no Plots, and Proteſtant-Plots too, are all but one Hellish, Popish Plot, however curiouſly the Roman Anatomiſts have endeavoured to diſſect it.</p>
+            <p>My Lords, it may be thought a great preſumption in me, to offer you a Play which never run the Risk of an hiſs on either of the Theaters; ſome will ſay it ought not to paſs Muſter for that very reaſon: But my Lords, I can boldly affirm ſay that this is not the firſt Play that hath been published &amp; not Acted on the publick Stage. Mr. <hi>Dryden's Fall of Man</hi> tho' an excellent Poem, yet never ap<g ref="char:EOLhyphen"/>peared there. I could name many more, had I not other reaſons perhaps more im<g ref="char:EOLhyphen"/>portant, for the non-acting of it at either of thoſe places, the Subject being not a little Satyrical againſt the Romaniſts, would very much hinder its taking, and would be far more difficult to get play'd than <hi>Caeſar Borgio</hi> was: or if it should
+<pb facs="tcp:52623:4"/>
+chance to have been played, might have found a colder entertainment than <hi>Tegue O Divelly,</hi> The Irish Prieſt, at the Duke's Theatre, merely for the Subjects ſake. The Reaſons I have humbly of<g ref="char:EOLhyphen"/>fered your Lordships, will, I hope, gain your approbation in the neceſſity of its not having been offered to be Acted at either of the Houſes.</p>
+            <p>And tho' your Lordships Wiſdoms may eſteem Plays as no other than plea<g ref="char:EOLhyphen"/>ſing vanities, ſo judg this not worth your Grave peruſals: Yet I will be bold to in<g ref="char:EOLhyphen"/>form you, that you will find here ſome Truths, as well as Truthleſs Fancies. It therefore implores your favourable ac<g ref="char:EOLhyphen"/>ceptance, as the Author doth your Par<g ref="char:EOLhyphen"/>dons, with a Candid Conſtruction of his preſumption, who ſubſcribes himſelf</p>
+            <closer>
+               <salute>My LORDS,</salute>
+               <signed>Your Honours moſt humble and Obedient Servant, <hi>N. N.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:52623:4"/>
+            <head>The <hi>PROLOG<g ref="char:V">Ʋ</g>E.</hi>
+            </head>
+            <l>'Tis hard adventuring in this giddy Age,</l>
+            <l>To make a Pope or Fryer grace a Stage.</l>
+            <l>When many partial Eyes with Anger ſtares,</l>
+            <l>And Pens are fall'n together by the Ears.</l>
+            <l>Fye, this is impious, ſaith a Popiſh Sire,</l>
+            <l>Thus to abuſe a Churches Holy Fryer.</l>
+            <l>You Curſed Poet, by what Godly Rule,</l>
+            <l>Doſt thou Religion turn to Ridicule?</l>
+            <l>The truely Ancient Doctrine too below,</l>
+            <l>Which from the firſt to th' preſent Age did flow.</l>
+            <l>But ſaith the Poet then, tho no Divine,</l>
+            <l>Clouds muffle up that Sun which once did ſhine.</l>
+            <l>Such Poys'nous Damps of Error deck it round,</l>
+            <l>Whoſe ſtifling Follies doth the World confound.</l>
+            <l>To ſoyl what's ſacred, he's not ſuch an Elf,</l>
+            <l>He writes of what hath ridicul'd it ſelf.</l>
+            <l>And thus in Comedy he deals, while he,</l>
+            <l>Might have depicted <hi>Rome</hi> in Tragedy.</l>
+            <l>With Streams of Blood, running through ev'ry Street,</l>
+            <l>And Bleeding Martyrs at their Murth'rers Feet.</l>
+            <l>But that which now will be the pretty'ſt Jigg,</l>
+            <l>He will, like ſome of you, be thought a Whigg.</l>
+            <l>In Conſcience tho, I'll clear him here before ye,</l>
+            <l>He's known for neither Papiſt, Whigg nor Tory.</l>
+            <l>Oh monſtrous ſtrange cry you, What is he then?</l>
+            <l>And what the Devil muſt we make o'th' Man?</l>
+            <l>E'en what you will, he's at your Mercy now,</l>
+            <l>And tho you'r Critical ſome kindneſs ſhow.</l>
+            <l>He's Plotter alſo turn'd, have pitty on him,</l>
+            <l>If's Plot takes not, the Pope hath near undone him.</l>
+            <l>'Tis true, here are no Scaenes to Grace our Show,</l>
+            <l>No middle Gallery, nor Pitt below.</l>
+            <l>What if our Stage thus nakedly appears.</l>
+            <l>If not your Eyes, we'll ſtrive to pleaſe your Ears.</l>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:52623:5"/>
+            <head>Men ACTORS.</head>
+            <list>
+               <item>
+                  <hi>Marforio.</hi> An old Rich Neapolitan Doctor of Phyſick; in Love with <hi>Florimel.</hi>
+               </item>
+               <item>
+                  <hi>Father Turbin.</hi> A Laſcivious Fryer, but hath the Vogue of Holy; in Love with <hi>Florimel.</hi>
+               </item>
+               <item>
+                  <hi>Father Lupin.</hi> His Comrade, in Love with <hi>Iſabella.</hi>
+               </item>
+               <item>
+                  <hi>Senior Ronſard.</hi> An <hi>Italian</hi> old Gentleman, Father to <hi>Florimel.</hi>
+               </item>
+               <item>The <hi>Pope,</hi> with Cardinals, Biſhops, and other Attendants.</item>
+               <item>Old <hi>Croff,</hi> a Jeſuit and great <hi>Negromancer.</hi>
+               </item>
+               <item>The Ghoſt of Pope <list>
+                     <item>
+                        <hi>Clement</hi> the Firſt,</item>
+                     <item>
+                        <hi>Boniface</hi> the Eighth,</item>
+                     <item>
+                        <hi>Gregory</hi> the Third,</item>
+                     <item>
+                        <hi>Innocent</hi> the Third,</item>
+                     <item>Pope <hi>Joan.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Women Actors.</head>
+               <item>
+                  <hi>Florimel,</hi> An Airy young Lady, Daughter to <hi>Ronſard,</hi> Mar<g ref="char:EOLhyphen"/>ried afterwards to <hi>Marforio,</hi> in Love with Fa<g ref="char:EOLhyphen"/>ther <hi>Turbin.</hi>
+               </item>
+               <item>
+                  <hi>Iſabella</hi> her woman, in Love with Father <hi>Lupin.</hi>
+                  <list>
+                     <item>1. Woman a Neighbour.</item>
+                     <item>2. Woman a Neghbour.</item>
+                  </list>
+               </item>
+               <item>Quiriſters, Fryers, Rabble, <hi>&amp;c.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Scaene,</hi> The City of <hi>Rome.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:52623:5"/>
+            <head>
+               <hi>Romes Follies,</hi> Or the Amorous FRYARS, A Comedy.</head>
+            <div n="1" type="act">
+               <head>ACT the 1ſt.</head>
+               <div type="scene">
+                  <head>Scaene a Chamber.</head>
+                  <stage>Enter <hi>Florimel</hi> and <hi>Iſabella.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>BUT are you in earneſt <hi>Iſabella?</hi> Do you think that old, impotent Picture of <hi>December</hi> would cloath himſelf with Blooming Flowers of chearful <hi>May?</hi> Ridiculous Fool! Doth he think that cold, ſapleſs, ſhrivell'd Age, can agree with the warmth of tender Youth? Marry me? let him Marry a wind<g ref="char:EOLhyphen"/>ing-Sheet, that's fitter for him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>I'm only ſuſpicious Madam, for he never ſees you at Maſs, but he looks on you as if he would eat you: if he chance to be at too great a diſtance from you, he claps his Spectacles on his Noſe; and makes the whole Congregation ſtare at him, for his ſtaring at you. Come, I believe it muſt
+<pb n="2" facs="tcp:52623:6"/>
+be a Match at laſt, tho' a very unequal one; eſpecially if he asks your Father's conſent; for you know the old, rotten piece of Fleſh is Rich, and Riches are tempting.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flo.</speaker>
+                     <p>You ſay right in that, my Father not being much be<g ref="char:EOLhyphen"/>holding to Fortune, I muſt expect no great matters from him; the old Fool's Riches therefore may be the only perſuaſive Ar<g ref="char:EOLunhyphen"/>gument to make me conſent at laſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>I don't know, were it my caſe, I ſhould not need much urging.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flo.</speaker>
+                     <p>But how I'm frighted when I conſider, I muſt be Bed<g ref="char:EOLhyphen"/>ded to Diſeaſes, and clammy Clay: in lieu of taſting the Spicy Varieties of Love, I ſhall have my Senſe of Smelling di<g ref="char:EOLhyphen"/>ſturb'd with an infectious, poyſonous Air, fuming from his foggy Lungs; in lieu of being charm'd with Harmonious Sounds of Love, I ſhall have no other entertainment for my Ears, than tedious Coughings, and unwholſome Gruntings all the Night long, and in a Morning, when my Sight ſhould be pleaſed in viewing the gallant Object that entertain'd my Love all night, I ſhall have the proſpect of Death in a Slumber, his bloodleſs Viſage wither'd, and his hollow eyes, diſtilling Rheume down the furrows of his Face;
+<q>
+                           <l>As in a thaw the Snow melts down in Drops</l>
+                           <l>Into the Kennels from the houſes tops</l>
+                        </q>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Yet were I you, all this I could bear, and patiently too, eſpecially when I conſider'd Madam; how greatly my Fortunes would improve by it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Nay if I'm importun'd, I'll not be obſtinate, tho I know the ill conſequence of ſuch a match in ſeveral other reſpects: horrible. Jealous I'm ſure he'll be, for Jealouſy, and Old age are inſeperable Companions: he'll be peviſh too, and perhaps coveteous; Judge then what a proſpect of miſcheif I have before my View, If I hazard my ſelf thus. As for his Jealouſy perhaps I may give him cauſe as his
+<pb n="5" facs="tcp:52623:6"/>
+impotency may juſtly deſerve.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>I vow Madam I think you ſpeak but reaſon: I'im ſure Nature never made us women for uſeleſs men; but here comes your father.</p>
+                  </sp>
+                  <stage>Enter Ronſard</stage>
+                  <sp>
+                     <speaker>Rons.</speaker>
+                     <p>Well, how now, how is it with you daughter?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Juſt as it is with moſt Virgins of my years Father, that would know more of the world than we do.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Rons.</speaker>
+                     <p>So, ſo, very well; you'l never leave your old triks, you are very pert me thinks: what think you of ſwallowing the vow of Chaſtity, and liveing in a Monaſtery? that was my deſign, once.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Why, I think I ſhould have liv'd and been holy both together.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Rons.</speaker>
+                     <p>That's, odd indeed, what's your meaning?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Why, the reſemblance of a Nun, ſhut up in a Monaſtery makes me appear Holy, and the Vow that I ſhould make would be a ſin to countervail with it: for I ſhould tell Nature a lye to her Face: beſides my Faith is a little wavering in that particular that our Mother Church enjoins us to beleive; for I can ſcarce think her Capable of beſtowing on us the gift of Chaſtity; how can ſhe give that Bleſſing to others which ſhe wants her ſelf?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Rons.</speaker>
+                     <p>Daughter you talk as if you were mad; for heaven ſake ſay no more, we ſhall have you clap'd into the Inquiſi<g ref="char:EOLhyphen"/>tion. But to wave this diſcourſe what think you of a Huſband now?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Why, if he be, ſound, wind and limb, I think he may doe good Service.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Rons.</speaker>
+                     <p>Yes, that may be, that may be truly. But what think you of a rich Husband that ſhall raiſe the honour of our Family?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flo.</speaker>
+                     <p>What, Father you mean an Husband whoſe Riches hides all other defects? why I may (not to be ungratefull)
+<pb n="6" facs="tcp:52623:7"/>
+endeavour to raiſe the honour of his Family too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Rons.</speaker>
+                     <p>Well I have an Huſband for you: truly he is ſome<g ref="char:EOLhyphen"/>thing ſtricken in years, but he is a bonny tuff Blade, and he is rich enough; It is <hi>Marforio</hi> the <hi>Neapolitan</hi>-Doctor, he'll come to ſee you by and by: I charge you to entertain him and encourage him in his Addreſſes to you; I promiſe you he is a good Honeſt, Sober, well-meaning Gentleman.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>The only Character given to moſt Fools and Cuckolds.</p>
+                  </sp>
+                  <stage>Aſide.</stage>
+                  <sp>
+                     <speaker>Ronſ.</speaker>
+                     <p>And he'll love you not with a laſcivious hair-brain'd Love, like Giddy, fooliſh youth, but his love will be ſolid; and he'll inſtruct you in the Rudiments of Vertue; he'll reach you ſobriety, and wiſdome, which affords more ſolid pleaſure, in Love than ever frothy, flaſhy youth did taſte.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flo.</speaker>
+                     <p>This is the right diſcourſe of all Superannuated Coxcombs, when they are paſt loving like Vigorous youth; then they exclaim againſt the true pleaſures of love, only be<g ref="char:EOLhyphen"/>cauſe they want power to taſte'em,</p>
+                     <stage>Aſide</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Rons.</speaker>
+                     <p>Well Daughter, I ſay no more, I ſay no more; be wiſe and dutiful, or the frowns of a father will fall heavy upon you: remember what I told you be ſure you; behave yor ſelf well before him.</p>
+                  </sp>
+                  <stage>Exit Ronſard.</stage>
+                  <sp>
+                     <speaker>Flo.</speaker>
+                     <p>
+                        <hi>Sir,</hi> I ſhall perform my duty; fough! what pleaſant Diſcourſe hath here been in praiſe of gray hairs, and wrink<g ref="char:EOLhyphen"/>les, to induce youth to dally with them? I ſee thy ſuſpitions were not for nothing <hi>Iſabella,</hi> for I find he hath been already with my Father, and hath gain'd his Conſent, and I believe the old fool will be here ſhortly to ask mine too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>He hath trim'd himſelf up of late like any youthfull ſpark, which becomes him as a Cardinal's Cap would a Cow, he exerciſeth his limbs at a more Nimble rate too, and is indeed mighty modiſh and ſpruce; you think you ſhall be Courted by a piece of cold, living Ice, and <hi>I,</hi> on the Contrary, fancy he'll
+<pb n="7" facs="tcp:52623:7"/>
+meet you like a Will i'th Wiſp, all Fire and Flame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flo.</speaker>
+                     <p>Yes I believe ſo too, for I expect all Vapor and no Sub<g ref="char:EOLhyphen"/>ſtance. I believe I ſhall be forc'd to uſe other meaſures when I am yok'd to him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Alas he'll ly ſo loveingly by your ſide Madam; give you ſometimes a ſnowy kiſs; hit you a pat or two on the Cheek, and call you little Rogue, and then make you play with his beard ſo prettily, that it will be apleaſure to your thoughts e<g ref="char:EOLhyphen"/>ver after.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flo.</speaker>
+                     <p>You're a fleering ſlut; well but 'tis no matter, his Gold will cover me all over with patience to endure the worſt: but ſtay here he comes I think.</p>
+                  </sp>
+                  <stage>Enter Marforio.</stage>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Lady your humble ſervant.</p>
+                     <stage>Smiling</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Flo.</speaker>
+                     <p>Ha! <hi>Senior Marforio</hi> me thinks you look as if you were growing young again; you are very ſpruce, and trim.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Dad I don't look ſo old, do I <hi>Iſabella?</hi>
+                     </p>
+                     <stage>to <hi>Iſabella.</hi>
+                     </stage>
+                     <p>I'm as ſound as a Roach, girl, and I can play at leap-frog now as well as <hi>I</hi> could at twenty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flo.</speaker>
+                     <p>Say you ſo? me thinks then you grow very odly; you grow contrary to the Courſe of Nature, all the reſt of the World when Age approacheth, grow weak and feeble for want of radical moiſture: to prop up Nature, but you, you ſay, grow ſtrong and Vigorous with your age.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Prop up Nature didſt thou ſay child? my Nature needs no proping up, I thank my Stars<g ref="char:punc">▪</g> beſides, the very ſight of thee is enough to prop up my Nature. Let me feel thy Pulſe, let me feel thy Pulſe. Oh thou'rt a little twinckling Rogue.</p>
+                  </sp>
+                  <stage>Claps her on the Cheek.</stage>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>You are pleaſant, <hi>Senior.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>How can I be otherwiſe? I am come a wooing to you, you little Rogue you, will you deny me? Do but ſee; I can Leap, and Skip, and Trip and Hop, and Dance, and Prance as nimbly as any <hi>Graſhopper.</hi>
+                     </p>
+                     <p>Tell me d'ye like me or no?</p>
+                  </sp>
+                  <sp>
+                     <pb n="8" facs="tcp:52623:8"/>
+                     <speaker>Flor.</speaker>
+                     <p>Bleſs me, what's here, a living Autumn? Nothing but wither'd Follies? Truely, your comely gray Hairs, toge<g ref="char:EOLhyphen"/>ther with the obliging Humor and Carriage you have to pleaſe our Sex with, can do no other than raiſe in me, and e<g ref="char:EOLhyphen"/>very one, a Reverend Reſpect for you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>But I mean, how d'ye like me for a Husband?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Why, d'ye ſpeak in earneſt <hi>Senior?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Yes, by'r Lady do I Girl.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Then I like you as well as Youth can do brisk come<g ref="char:EOLhyphen"/>ly Age, when it ſhal have the Joyful Diverſion to play with Silver Hairs, and to refreſh it ſelf in Beds of Snow, when over-heated with the Summers warmth: in fine, I like you well enough, but the Will of my Parents is a Law to me, cut of that Track of Obedience, <hi>I</hi> muſt not wander.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Come then if you pleaſe, I'll go with you to your Father preſently. Oh <hi>I</hi> could ſo—but 'tis no matter now, come, come let's go, let's go.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>What tho to ſleepy drowſie Age I'm ſold, Since thoſe Defects are fill'd with Charms of Gold.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div type="scene">
+                  <head>Scaene a Cloyſter.</head>
+                  <stage>
+                     <hi>Enter Father</hi> Turbin and <hi>Father</hi> Lupin.</stage>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Truly brother I do intend to treaſure up ſome thing by this Holy cheat.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>In truth Brother you do very wiſely, we muſt be every one for our ſelves, for all the Church is our Mother. But indeed have you been at <hi>Jeruſalem</hi> or no?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>No more than thou haſt been in purgatory.</p>
+                  </sp>
+                  <sp>
+                     <pb n="9" facs="tcp:52623:8"/>
+                     <speaker>Lup.</speaker>
+                     <p>Then the Relicks that you brought over and have ſhowed to his Holyneſs are e'en of your own ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eing and contriveing; and was there ever ſuch a Saint as Saint <hi>Alliver<g ref="char:EOLhyphen"/>got?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Of my own makeing! why you ſeem to be very ignorant, thou fool thou, why all the miracles that are book<g ref="char:EOLunhyphen"/>ed upon with ſuch Reverence and Devotion by our Proſelytes in the Golden Legend, are meer Shams and Inventions: <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o are all thoſe that have been broached ever ſince the Donation of <hi>Conſtantine</hi> to the Pope: And in that there is a Juggle too, for that was the firſt Plot the Devil and our holy Church in<g ref="char:EOLhyphen"/>vented to make the Papal Chair great and durable.</p>
+                     <p>I don't know that ever there was ſuch a Saint; but that's all one, I hope my arrival is not divulged yet, is it?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>No, no body knows that you are come yet. But pre<g ref="char:EOLhyphen"/>thee if thou haſt not been at <hi>Jeruſalem</hi> where haſt thou been then?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>I have been at three other Holy places, and one dam<g ref="char:EOLhyphen"/>nable, wicked Heretical place I have been to viſit our Lady of the <hi>Roſario,</hi> our Lady <hi>Del Carmine</hi> and our Lady <hi>del Popolo:</hi> And I have been among the plagnyeſt Hereticks this day in Chriſtendome, I have been in <hi>England.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>Oh Wonderful! pray how goes our holy deſign there forward?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Forward man! Why the Heriticks have almoſt broke it all to pieces, and they have made nothing of Cutting off the Champions of our Church, pray heaven they don't make his Holyneſs reel in his Chair, and then we are ſafe enough.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>Have you acquainted his Holyneſs with any parti<g ref="char:EOLhyphen"/>culars?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Not one word yet, I intend to do it. But I can't for<g ref="char:EOLhyphen"/>bear telling you a paſſage, that hapned between an heretick and I at Tavern in <hi>London</hi> with ſome other Company. I was telling him Brother, what wonderful miracles were wrought by my Saint <hi>Allivergot.</hi> and how he was martyr'd for the truth: I told him too, how Saint <hi>Denis,</hi> after he was beheaded
+<pb facs="tcp:52623:9"/>
+did moſt miraculouſly walk three miles with his head in his hand, and then let it fall: upon which ground I told him was built a Town that beares his name, three miles diſtant from <hi>Paris.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>Well what ſaid the Heretick to theſe wonders of our Church?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Why he was ready to choak himſelf with laughing; Piſh ſaid he (at laſt when he could ſpeak) theſe miracles were wrought a great many years ago: but for all their ſcarci<g ref="char:EOLhyphen"/>ty I can tell you of one in our age, and an Engliſh true one; and you know, ſaid he, miracles are not uſual among Hereticks. There was a gentleman, ſaid he, was of good quality, who be<g ref="char:EOLhyphen"/>ing troubled with a deep melancholy, went into a place called <hi>Sommerſet houſe,</hi> there ſtrangled himſelf to death: after he was dead he takes a walk near three miles, a walk almoſt as long as your <hi>Saint Denis's</hi> and there he runs himſelf through with his own rapier, and kill'd himſelf again for ſpite.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>Mum, not a word more of this, as the learned obſerves: Sure this Heretick told an Impudent lye:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>No for the reſt of the Company confirmed what he ſaid: But come I muſt get you to help me to put things in a readyneſs againſt I dazle the peoples eyes with the Luſtre of my Relicks.</p>
+                     <q>
+                        <l>Thus we the giddy world pretend to guide</l>
+                        <l>While in our ſleeves its weakneſs we deride.</l>
+                        <l>And thus what with devotion we expoſe.</l>
+                        <l>Is but to lead the <g ref="char:V">Ʋ</g>ulgar by the noſe.</l>
+                     </q>
+                  </sp>
+                  <stage>Exeunt</stage>
+               </div>
+               <div type="scene">
+                  <pb n="11" facs="tcp:52623:9"/>
+                  <head>Scaene a Garden.</head>
+                  <stage>Enter Florimel Marforo and Iſabella.</stage>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Come we have done the work now my Duck, my Love, my Chuck, my Lamb, my Honey, my Dear, my— prethee one kiſs now you little Rogue you, ſo— Dad I am Mighty—Mighty — But Come prethee my Dove we want nothing now but going to the Prieſt, let's haſten away then.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>I muſt be guided by the Golden Rule of your Wiſ<g ref="char:EOLhyphen"/>dom now Sir,</p>
+                     <lg>
+                        <l>Let me look upon his Head a little,</l>
+                        <l>Oh ho! He'll become Horns very well. <stage>Aſide.</stage>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Come then, dad I'm all mirth, I'm all mirth.</p>
+                     <q>
+                        <l>Let's guide our eager ſteps then let us flye,</l>
+                        <l>That I the ſooner Loves ſoft charms may try,</l>
+                     </q>
+                  </sp>
+               </div>
+               <trailer>The End of the Firſt Act</trailer>
+            </div>
+            <div n="2" type="act">
+               <pb n="12" facs="tcp:52623:10"/>
+               <head>Act The Second</head>
+               <div type="scene">
+                  <stage>
+                     <hi>Scaene the <g ref="char:V">Ʋ</g>atican at Rome, where is diſcovered the Pope Seated in his Throne, a Cardinal in his Scarlets, on the on ſide of him, and a Biſhop with his Miter &amp; Surpice on the other, with ol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Coſt the Jeſuit in a Black a Robe a Circingle about his midle, a little Collar Band about his neck in little ſhort black hair, with Guards and other Attendants.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>To me are all men ſubject I to none,</l>
+                     <l>I am Divine tho moulded into fleſh:</l>
+                     <l>I'm Heav'ns deputy, to me Kings bow,</l>
+                     <l>Emperors implore my favor, and the world</l>
+                     <l>I ſave, or damn according as I pleaſe.</l>
+                     <l>They that to heav'n will climbe, muſt ask me leave:</l>
+                     <l>Without my keyes no Entrance can be had:</l>
+                     <l>Monarchs may thank me if I am ſo kind</l>
+                     <l>To let'em keep thoſe kingdoms they poſſeſs;</l>
+                     <l>And think that I advance their fame if I</l>
+                     <l>Give'm the Title of my ſervile Page.</l>
+                     <l>To me alone the world obedience owes</l>
+                     <l>All thoſe the honour have to be my ſlaves</l>
+                     <l>That Adoration to my foot-ſtool pay;</l>
+                     <l>Had I my Will I would be greater yet</l>
+                     <l>And far exceed the holy croud of heav'n</l>
+                     <l>In lieu that I to heav'n worſhip pay</l>
+                     <l>I would make heav'n pay it back to me.</l>
+                  </sp>
+                  <sp>
+                     <pb n="13" facs="tcp:52623:10"/>
+                     <speaker>Ieſ.</speaker>
+                     <l>Moſt holy father your great pow'r we own,</l>
+                     <l>And tremble when we think what you can do.</l>
+                     <l>Your God-like power over all extends:</l>
+                     <l>A Temp'ral too, as due you likewiſe claim</l>
+                     <l>Which tho you have it not as yet intire;</l>
+                     <l>Yet is your Empire and Dominions great</l>
+                     <l>Three hundred miles the Church's ſtate extends</l>
+                     <l>Within the limits of fair Italy.</l>
+                     <l>
+                        <hi>Spoleto's</hi> Dutchy to is your Juſt due;</l>
+                     <l>So's <hi>Benevent,</hi> a fair Town in Naples</l>
+                     <l>To Naples kingdom too you lay a claim;</l>
+                     <l>But rather than your Champion you'll offend</l>
+                     <l>The Spaniard, who your cauſe ſo long hath fought,</l>
+                     <l>You onely once a year as due receive</l>
+                     <l>A white Mule with a purſe about his neck,</l>
+                     <l>Fill'd up with Golden Piſtols; and to ſhow,</l>
+                     <l>What they to Heav'ns mighty Vicar ow.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>The Spaniards e're were Zelous in our Cauſe,</l>
+                     <l>And are true Sons of their indulgent Mother.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jeſ.</speaker>
+                     <l>
+                        <hi>Sicily, <g ref="char:V">Ʋ</g>rbin, Parma, Maſſeran,</hi>
+                     </l>
+                     <l>With <hi>Norway,</hi> ſhould pay Homage to your Throne.</l>
+                     <l>
+                        <hi>England</hi> and <hi>Ireland</hi> too, you long have claim'd,</l>
+                     <l>E're ſince <hi>Pandulpho</hi> in that Land arriv'd,</l>
+                     <l>And came as Legate when King <hi>John</hi> did lay</l>
+                     <l>Th' Imperial Crown as due beneath his Feet.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>My Spirtu'l Power too, them Kingdoms claim;</l>
+                     <l>But name that Curſed, ſtiff-neck'd Land no more;</l>
+                     <l>I'm out of Breath with pouring Curſes on't.</l>
+                     <l>'Tis that damn'd Land that mortifies me thus,</l>
+                     <l>And turns my Glories into dirt and dregs.</l>
+                     <l>The Saints I've there are few, but full of Zeal;</l>
+                     <l>They'll leave no ſtone unturn'd to make us great:</l>
+                     <l>They'll Plot, Deſtroy, and Towns to Aſhes turn;</l>
+                     <l>Try to kill Kings, then piouſly deny it,</l>
+                     <l>And damn their weak Souls with their lateſt Breath,</l>
+                     <l>With hopes of being Sainted after Death.</l>
+                  </sp>
+                  <sp>
+                     <pb n="14" facs="tcp:52623:11"/>
+                     <speaker>Jeſ.</speaker>
+                     <l>'Tis ſo, but then the Hereticks rejoyce,</l>
+                     <l>And ſay there's none but Libertines and Fools</l>
+                     <l>That live and die ſuch mighty Champions,</l>
+                     <l>To People Hell, to pleaſe proud <hi>Rome</hi> and you.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>Is then my God-like Power thus debas'd</l>
+                     <l>By ſullen Hereticks, the World's foul Scums?</l>
+                     <l>Shall I, whoſe Breath can darken humane Fate,</l>
+                     <l>Be thus the Scorn of ev'ry ſaucy worm?</l>
+                     <l>Angels and Saints are pretty things that pleaſe</l>
+                     <l>The wiſer ſort of Fools that pray to Heaven;</l>
+                     <l>But it is fitting for the Churches good</l>
+                     <l>And honour too, my only Mark and Aim;</l>
+                     <l>That firſt they Pray to me and then to Heav'n.</l>
+                     <l>'Tis I that Heav'n muſt thank for all its Saints:</l>
+                     <l>I make 'em here, and they recieve 'em there,</l>
+                     <l>So the preheminence is due to me,</l>
+                     <l>And Heav'n ſhall worſhip'd be at ſecond hand.</l>
+                     <l>But for the Hereticks i'th Brittiſh Iſle,</l>
+                     <l>I'll make 'em know that I at laſt have power,</l>
+                     <l>To Cruſh e'm with theſe circl'd Arms to Air.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jeſ.</speaker>
+                     <l>But they are obſtinate, and won't be Cruſh'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>Then will I damn and blaſt 'em with my Breath.</l>
+                     <l>But is your Skill yet ready to perform</l>
+                     <l>What my Commands ſo lately did enjoyn?</l>
+                     <l>Will not thoſe Airy Beings yet appear?</l>
+                     <l>Sure they grow bold and know not who commands.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jeſ.</speaker>
+                     <l>Moſt Holy Father, yes they ſhall appear,</l>
+                     <l>And tell you what is done beyond the Moon.</l>
+                     <l>The work is great, and asketh longer time;</l>
+                     <l>The mighty Charm is yet not half wound up.</l>
+                     <l>Beſides, they have a tedious way to come</l>
+                     <l>Through Regions, Foggy, Moiſt, Dry, Warm and Cold.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>How many ſhall there from the Shades aſcend?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Jeſ.</speaker>
+                     <l>My Negromantick Power ſhall bring up.</l>
+                     <l>Juſt four, to anſwer what your Will commands.</l>
+                  </sp>
+                  <sp>
+                     <pb n="15" facs="tcp:52623:11"/>
+                     <speaker>Pope.</speaker>
+                     <l>Then we will wait till the Charm be compleat,</l>
+                     <l>Let Diligence the while your Duty ſhow.</l>
+                     <l>But now let's to the Chappel guide our way,</l>
+                     <l>That we a Debt may to Devotion pay. <stage>Exeunt</stage>
+                     </l>
+                  </sp>
+               </div>
+               <div type="scene">
+                  <head>Scaene a Chamb<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</head>
+                  <stage>
+                     <hi>Enter Florimel</hi> and <hi>Iſabella.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Did not I tell thee <hi>Iſabella,</hi> what I ſhould endure by marrying this old Cuff? to be pen'd up thus all day like a mouſe in a Trap, to ſuffer penance thus by an old Clumpiſh, Feeble Jealous coxcomb, And I muſt be enjoyn'd faſting for<g ref="char:EOLhyphen"/>ſooth; and to mortify the pride of the fleſh as he pretends; here he hath left me Beads, Crucifixes, Prayer-books, and a luſty Cord to ſcourge my ſelf with, where as I think he ought to undergo the Penance of being well ſcourg'd himſelf for his own inſufficiencie: and oh that I were to inflict it on him my ſelf, I'd make him ſkip after another manner than he did when he Courted me; and then all the Comfort I have is but look<g ref="char:EOLhyphen"/>ing out of that window upon the Cloyſters.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>I did not expect it would have been altogether ſo bad neither, but now you muſt have patience till the rotten, fleſhy building is fall'n.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>I believe his Jealouſy will ſcarce leave him when he's dead.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>You would Joyfully know the Contrary were it ſo, but he's too old to ſtay in the world much longer; I wonder what buſineſs he hath in it at all, at his years.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>His only buſineſs now is to torment me, but I war<g ref="char:EOLhyphen"/>rant
+<pb n="16" facs="tcp:52623:12"/>
+you, I'll Conquer him, and engraft the Trophyes of my Victory on his head too.</p>
+                     <p>How d'y like the Fryer that's made ſo famous by his Relicks; he ſaith his Holyneſs hath cauſed them to be newly Regiſtred in the Roman Calendar.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>I like him very well, for he is looked upon as a mighty upright, holy man, I believe he'll be Cannonized for a Saint at his Death: and when he walks the ſtreets how the people flock about to recieve his Bleſſing and kiſs the hem of his Garment?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>He's but young, it's much he ſhould be ſo much ad<g ref="char:EOLhyphen"/>mir'd; it's aſign my husband was extreamly pleaſed with him, or elſe he would ne're have had me to Church to hear him preach.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>His Relicks have a ſtrange power they ſay: for 'tis re<g ref="char:EOLhyphen"/>ported they'll make women breed without the help of their husbands, turn old age into youth, heal Diſeaſes and encreaſe Love.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Oh ſtrange! I'm glad my husband hath order'd him to come and Confeſs me, for <hi>I</hi> have a good opinion of him, my meaning is I respect him above other Men; he was very ob<g ref="char:EOLhyphen"/>liging to me too, for when he went out of the Church, he ſaluted me from all the reſt of the Ladyes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Nay then, <hi>I</hi> believe he begins to know that you deſerve ſome reſpect from him too; And all the time he was preaching <hi>I</hi> took notice his eye was for the moſt part ſtedfaſtly fix'd upon you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>If this ſhould encreaſe now to a Flame?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>It would be but an holy flame at moſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>For my part <hi>I</hi> believe the worſt of his Actions are pure and holy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Ay, ay, ſo they are; don't holy mother Church tell us we muſt believe what the Church believes: beſides, if the ſins of the Fleſh do corrupt us his Abſolution cleanſeth us a<g ref="char:EOLhyphen"/>gain, even as Fire purifies Air.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor:</speaker>
+                     <p>You are in the Right.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>I'm ſure <hi>I</hi> am in the Right when <hi>I</hi> follow the pious
+<pb n="17" facs="tcp:52623:12"/>
+rules, of the Church, which give us, maxims to ſin, and ſanctifies'um when we've done. I vow I begin to have as good an opinion of father <hi>Lupin</hi> as you have of father <hi>Turbin.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Sayſt thou ſo girl? Nay then I have a Plot in my head in which I hope Saint <hi>
+                           <g ref="char:V">Ʋ</g>enus</hi> will aſiſt me. If ſhe doth, my dry bon'd bed fellow ſhall be prefer'd to his due deſerts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Truly with a cold Icy wither'd body he hath a grave dull Politick head fit for a Satyrs ornament.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Faith girl my good Nature will make me be ſo kind to him at laſt. ha, ha, ha.</p>
+                  </sp>
+                  <stage>Enter Marforio.</stage>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>What, laughing? is this the mortification of the fleſh? is this deying the devil and all his works? out ye daughter of Satan!</p>
+                     <p>But there is ſome thing more then ordinary in the wind I'm a fraid: <hi>I</hi> believe the ſneeringſluts laugh'd at me — <stage>Aſide.</stage>
+                     </p>
+                     <p>Go get you gon into your Cloſſet that's fitter for you than to ſit and ſneere and mock.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Why huſband can't we be chearful and devout too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Not a word, make haſte in and follow me.</p>
+                  </sp>
+                  <stage>Exit Marforio</stage>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <l>
+                        <hi>Damn'd may ſhe be, nay doubly damn'd that firſt</hi>
+                     </l>
+                     <l>
+                        <hi>For Int'reſt wedded Age, may ſhe be Curſt</hi>
+                     </l>
+                     <l>
+                        <hi>With all the Plagues a womans Rage can vent,</hi>
+                     </l>
+                     <l>
+                        <hi>And when we Curſe, I'm ſure they are well meant.</hi>
+                     </l>
+                     <l>
+                        <hi>May ſhe be lewd t'exceſs, proud and yet poor,</hi>
+                     </l>
+                     <l>
+                        <hi>May none ſupply her luſt when ſhe'd turn whore.</hi>
+                     </l>
+                     <l>
+                        <hi>Then may ſhe pine to death at her ill luck,</hi>
+                     </l>
+                     <l>
+                        <hi>Becauſe youth won't and Age her cannot—</hi>
+                        <stage>you know what</stage>
+                     </l>
+                  </sp>
+                  <stage>Exeunt Florimel and Iſabella.</stage>
+                  <stage>
+                     <pb n="18" facs="tcp:52623:13"/>
+                     <hi>Marforio Re-enters.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Apyes take it <hi>I</hi> don't know what <hi>I</hi> ail, but I'm hor<g ref="char:EOLhyphen"/>ribly tormented in my mind, <hi>I</hi> cannot be at quiet in the day time, neither can <hi>I</hi> ſleep in the night, for thinking and dream<g ref="char:EOLhyphen"/>ing of horns, yet <hi>I</hi> keep her ſafe enough, there's no body comes near her, And endeavour to mortify her with De<g ref="char:EOLhyphen"/>votion, that the members of her body, may not riſe up in re<g ref="char:EOLhyphen"/>bellion againſt me their Cheif head and Governor, but ſtill for all this 'tis Horns, horns, horns, that won't let me alone. And horns are ſuch things that the very thoughts of 'um do half kill me.</p>
+                     <q>
+                        <l>For tho' they grace the browes that they adorn,</l>
+                        <l>Still they are pointed at by all with Scorn.</l>
+                     </q>
+                  </sp>
+                  <stage>Exit Morforio.</stage>
+               </div>
+               <div type="scene">
+                  <pb n="19" facs="tcp:52623:13"/>
+                  <head>Scaene a Cloyſter</head>
+                  <stage>
+                     <hi>Enter Father Turbin</hi> and <hi>Father Lupin.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Now my fame begins to ſpread, now do the common People begin to worſhip me, and cry me up for holy; and therefore now <hi>I</hi> begin to fill my coffers and thrive.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>His Holyneſs encourageth the Cheat too <hi>I</hi> find.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>What will not his Holyneſs do for Lucre to advance the Intereſt of the Church; he ſhall cauſe Kings to be depoſed and murther'd, Hereticks to be deſtroyed with the ſevereſt Torments; in fine, he ſhall ſet all the world together by the ears provided he may make but a pious gain, for himſelf and his hopeful Nephews.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>Indeed! are they ſo kind to their Nephews?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>
+                        <hi>I</hi> find you are but a Novice in our Church, or elſe ex<g ref="char:EOLhyphen"/>perience would have made you wiſer: our moſt Holy fathers fancy they give Kings one half of Heaven (for you muſt know that's at their diſpoſing) and another half of Earth when they ſtile'um their Sons: and the Kings that are true to our cauſe think they merit the other half of Heaven in moſt humbly ſtiling them Father.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>Say you ſo? me thinks theſe are very pious things, and tend much to mutual Love and Unity.</p>
+                  </sp>
+                  <sp>
+                     <pb n="20" facs="tcp:52623:14"/>
+                     <speaker>Tur.</speaker>
+                     <p>You are miſtaken there <hi>Lupin,</hi> theres' more of Policy than Religion in it, as indeed there is in all our principles. Know then that this only ſerves to enſlave Princes to the Grandeur and Loftineſs of Heavens moſt humble Vicar.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>But I wonder that Princes who have commonly wiſe Counſellors to adviſe with, ſhould be thus led by the Noſe. And I wonder to at another thing, that the Pope ſhould bear a more intire affection to his Nephews then to his Sons the Kings; for my part I ſhould reckon my Children both nearer and dearer to me than my Nephews.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Our Popes are governed by contrary Maxims, for what ever they ſcrape together from the church when they die they they leave to their Nephews as their heirs; not affording ſo much as a ſmall legacy to their Sons; Witneſs <hi>Pope <g ref="char:V">Ʋ</g>rban the Eighth, Innocent the tenth, and Alexander the ſeventh;</hi> who left above ſeven Hundred Thouſand piſtols to his Nephews and only the Title of Son to the poor Emperor who had all his life time been at great charge and trouble in defending him againſt the Infidels.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup,</speaker>
+                     <p>Some People would take this for Ingratitude; but for my part I think Kings and Emperours ſhould believe them<g ref="char:EOLhyphen"/>ſelves Rich enough, and Highly Honoured in enjoying only the Title of his Sons, without expection of any thing elſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>You ſpeak like a True ſouldier of his Holyneſs, I com<g ref="char:EOLhyphen"/>mend you. It's a main point of our Religion to procure Riches to the Church, no matter how nor which way: t'other day one comes to me to be abſolv'd for defiling himſelf with a goat; I had four Piſtols for giving him Abſolution: And for one more I would have undertook to procure a diſpenſation from his Ho<g ref="char:EOLhyphen"/>lyneſs for him to marry the beaſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>Nay I know the Pope hath power: But now let us wave this diſcourſe till another time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Ay, ay, let's wave it, let's wave it, I have buſineſs of greater concernment in my head; I long to go to Confeſs Madam Florimel, the time ſeems tedious.</p>
+                  </sp>
+                  <sp>
+                     <pb n="21" facs="tcp:52623:14"/>
+                     <speaker>Lup.</speaker>
+                     <p>Juſt ſo it always ſeems to eager lovers; 'Tis but waiting till the morrow, and by'r Lady I muſt with you too, for I have a loving deſire to be father Confeſſor to — It's no matter whether I tell you or no.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>You need not keep it ſo cloſe you mean to <hi>Iſa<g ref="char:EOLhyphen"/>bella;</hi> come, come, then we are well enough.</p>
+                     <q>
+                        <l>And that our deſires in pleaſure may end</l>
+                        <l>Let's make our Religion our Plottings befriend.</l>
+                     </q>
+                  </sp>
+               </div>
+               <trailer>The End of The Second Act.</trailer>
+            </div>
+            <div n="3" type="act">
+               <pb n="22" facs="tcp:52623:15"/>
+               <head>Act the Third.</head>
+               <div type="scene">
+                  <head>
+                     <hi>Scaene</hi> a Chamber.</head>
+                  <stage>Where are diſcovered <hi>Marforio, Florimel, Iſabella,</hi> Fa<g ref="char:EOLhyphen"/>ther <hi>Turbin,</hi> and Father <hi>Lupin.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>I Know Father <hi>Turbin</hi> you are a Man for a Reli<g ref="char:EOLhyphen"/>gious Life, without Spot or Blemiſh; and that as you are jogging on towards Heaven with a zealous pace, ſo you will not think your Pains much, to direct others the ſame Road: here is my Wife wants ſome of your holy Inſtructions whereby ſhe may build a Ground<g ref="char:EOLhyphen"/>work by her Edification, to be throughly vers'd in the Art of Mortification: I would have you make her Re<g ref="char:EOLhyphen"/>ligious and Vertuous, and Holy, and Prudent, and Wiſe, and Humble, and Meek, and Obedient, that ſhe may mind the Commands of me her Lord and Husband, and not the Kickſhaw Vanities of the Fleſh.</p>
+                  </sp>
+                  <sp>
+                     <pb n="23" facs="tcp:52623:15"/>
+                     <speaker>Tur.</speaker>
+                     <p>Heaven doth ſeem to have moulded our Daugh<g ref="char:EOLhyphen"/>ter here, on purpoſe for Edification Sir; and therefore <hi>I</hi> don't queſtion but to find her endued with a Religious and Spiritual Sanctity, and what bleſſing Heaven hath beſtowed on me, ſhe ſhall enjoy her ſelf. <hi>I</hi> don't doubt but a little private diſcourſe with her may work a ſoft and gentle impreſſion in her.</p>
+                     <p>Therefore pray Sir do you ſtand at a diſtance, <stage>To Marforio</stage>
+                     </p>
+                     <p>Daughter I muſt give you the trouble to kneel.</p>
+                  </sp>
+                  <stage>She kneels and kiſſeth the hem of his Garment</stage>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>O pious, moſt Holy man!</p>
+                     <p>Sir <hi>I</hi> have obey'd your Commands.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Daughter we have a ſaying in Philoſophy, that Nature made nothing in vain; all things were made for ſome uſe, &amp; if we follow not the Law of Nature when ſhe preſſeth us to be guided by her rules, we ſin both againſt her and Heaven; for there ſhe recieved Being, and here it is our duty to Cheriſh her. Beauty the moſt excellent thing that ever Nature fram'd; Beauty that gives life to the Heavens as well as the Earth, ſhall ſhe continue among us to be only poorly admired at a diſtance, as ſome Nations do the Sun? no, ſhe was made for Love, Love, without which the moſt illuſtrious beautyes would ſhine but meanly, neither could they raiſe Trophyes to illuſtrate their worth: can you hear the name of Love daughter pronounced by me without a frown?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Yes Sir I am not ſo barbarous yet to find any thing in that name ſo terrible.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>And can your tender breaſt receive that ſoft im<g ref="char:EOLhyphen"/>preſſion d'e think? <hi>I</hi> ſpeak in a Religious way, for <hi>I</hi> would by no means have you offend Heaven.</p>
+                  </sp>
+                  <stage>Marforio.</stage>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Well I'l leave you together; pray father <hi>Turbin,</hi> bring down the Pride of her Fleſh a little. <stage>Exit Mar.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <pb n="24" facs="tcp:52623:16"/>
+                     <speaker>Tur.</speaker>
+                     <p>I warrant you <hi>Senior;</hi> leave that to me. Come Daughter, indeed <hi>I</hi> cannot ſee you Kneel any longer.</p>
+                  </sp>
+                  <stage>Raiſeth her up.</stage>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Father I am generally good natur'd; and I know not but I may be capable enough of receiving the holy Flame,</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Well Daughter, you ſpeak like a Saint: if there were not a great deal of Religion in Love, I would not entertain you with this Diſcourſe: But, to go farther can you ſettle an harmleſs, innocent Love upon me, and think no more on Age, and Impotence? Beauty, as I ſaid, before, was not made for nothing, much leſs for inſuffi<g ref="char:EOLhyphen"/>cient Age, but for the Embraces of Love and Youth. Do not Sin then Daughter thus, againſt our Hand<g ref="char:EOLhyphen"/>maid Nature; employ your blooming Youth to advan<g ref="char:EOLhyphen"/>tage, before Age ſhall wither thoſe beauteous Features &amp; fill thoſe Veins with Ice, in lieu of Blood. Conſider the Religious Advice I give you; here is a Breaſt fill'd with a Love as warm as the Sun-beams in ſummer, take it and uſe it as your own.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>You make me Bluſh, and I'm overcome; for I vow I can deny you nothing, you are ſuch a pious Man: but I'm conſidering what meaſures we muſt uſe: you know my old Husband is very Jealous of me, there<g ref="char:EOLhyphen"/>fore we muſt go prudently to work; ſtay — <hi>I</hi> think <hi>I</hi> have almoſt found out a way whereby we may taſte the Pleaſures of Love without interruption: I'll pretend, very ſhortly, to fall ſick, and then do you leave the reſt to me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>
+                        <hi>I</hi> vow Daughter thou art one of a thouſand, thou art a good Heavenly woman: Come, one Kiſs the holyneſs of my Coat claims from you; the Piety of my Order requires another, and the third is due to Love. <stage>Kiſſeth her three times.</stage>
+                     </p>
+                  </sp>
+                  <stage>They whiſper.</stage>
+                  <sp>
+                     <pb n="25" facs="tcp:52623:16"/>
+                     <speaker>Lupin.</speaker>
+                     <p>You ſee <hi>Iſabella</hi> what a ſweet and pleaſant Con<g ref="char:EOLhyphen"/>cordance there is with Religion and Love, Love which is the Life of Religion; nay the Soul of every individu a thing elſe; can you ſwallow this part of our Doctrine? Come I know as thou art a good Chriſtian, thou doſt underſtand the Theory, which if you do, the Practick part will follow of Conſequence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Ay, but you name a dangerous ſort of Love; a Love full of Sin.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>Believe me <hi>Iſabella</hi> there can be no ſin in the Divine thing called Love, the moſt unſenſible things in Nature are ſubject to that Excellent, and I may ſay, Re<g ref="char:EOLhyphen"/>ligious paſſion. Doth not the Sun Court his Miſtreſs the Earth with his Glorious ſmiles, and the Earth again diſ<g ref="char:EOLhyphen"/>play her content, by her Checker-work and embroydery in her Summer pride? Doth not the Sun again, with the reſt of his Glorious Train move continually round for Love of perfection? Nothing without ſome feeling of Love<g ref="char:punc">▪</g> Doth not the ſtone move eagerly to his Center fire upwards? And do not the ſportling ſtreams in many pretty <hi>Meanders</hi> glide to the Sea? can theſe inanimate Beings be inclinable to that Noble paſſion, and you whom Heaven hath endued with ſence and reaſon be without that very Senſe and Reaſon Heaven hath beſtowed on you purpoſely to know how to Love.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>You plead too well Father <hi>Lupin</hi> to be deny'd, and ſince it is an harmleſs paſſion, I believe <hi>I</hi> can digeſt it: But who is it you would have me Love?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>My ſelf that Love you more than our ſtrongeſt Zealots do heaven. And to Confirm this holy Flame, permit me to ſeal the Contract on thoſe bloomy roſy leaves your Love-Enchanting Lips. <stage>kiſſeth her often-</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Oh <hi>I</hi> ſhall die, come no more that's enough for once.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>Thus will <hi>I</hi> take my Brother <hi>Turbin's</hi> meaſures.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>And <hi>I</hi> will follow my Lady <hi>Florimels.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>Do ſo, and let Love proſper us.</p>
+                  </sp>
+                  <sp>
+                     <pb n="26" facs="tcp:52623:17"/>
+                     <speaker>Tur.</speaker>
+                     <l>
+                        <hi>Alas 'tis time to part, Fare-well and now,</hi>
+                     </l>
+                     <l>
+                        <hi>Let's not forget what we to Love did ow.</hi>
+                     </l>
+                     <l>
+                        <hi>Another meeting ſhall our Joye renew,</hi>
+                     </l>
+                     <l>
+                        <hi>And pay that Debt which to our flame is due.</hi>
+                     </l>
+                  </sp>
+                  <stage>
+                     <hi>Exeunt Father Tur. &amp; Father Lup. <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>man<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nt Florimel and Iſabella.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>So — Now ſince <hi>I</hi> have begin to ſet my en<g ref="char:EOLhyphen"/>gineering brains to work, I'm reſolv'd to bring my plot<g ref="char:EOLhyphen"/>ings to perfection: and when all, comes to all, 'tis but to pay a debt, my Husband's age and humor claimes. <hi>I</hi> like the Fryer well enough; he'll ſerve my Turn—But let me ſee — when would you adviſe me to fall ſick <hi>Iſabella?</hi> for Indeed <hi>I</hi> muſt be ſick, and very ſick too, or elſe <hi>I</hi> ſhall have no opportunity to accompliſh my deſign; be<g ref="char:EOLhyphen"/>ſides there's no better way to blind my Husband's eyes and to keep neighbours from having an ill Opinion of me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>My Maſter you know was talking of going out of Town to morrow, or next day: <hi>I</hi> think it would be neceſſary for you to fall ſick a little before he goes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>You give good Advice, I'll follow it.</p>
+                     <q>
+                        <l>Let's then retire, and haſten to prepare,</l>
+                        <l>Each thing in Order, for Loves gentle War.</l>
+                     </q>
+                  </sp>
+               </div>
+               <div type="scene">
+                  <head>Scaene changeth to a Cloſter.</head>
+                  <stage>
+                     <hi>Enter</hi> Father <hi>Turbin,</hi> and Father <hi>Lupin.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>How d'ye like our Love Intrigue; now is not this better than to ſay Maſs for the deliverance of five thouſand Souls out of Purgatory?</p>
+                  </sp>
+                  <sp>
+                     <pb n="27" facs="tcp:52623:17"/>
+                     <speaker>Lup.</speaker>
+                     <p>It goes forward as we could wiſh; under the happy Mask of Religion and Zeal; and the Truth on't is, there's no deſign whatſoever, tho, contriv'd by the very Prince of Hell himſelf but may find entertainment, as well in the meaneſt Cloyſter as at the <hi>Vatican</hi> in our Ho<g ref="char:EOLhyphen"/>ly City of <hi>Rome</hi> here.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>You ſpeak like an underſtanding Man, <hi>I</hi> could not think you had gain'd ſo much experience for the ſmall time you have been in Orders; but to confirm what you ſay, I'll tell you of a paſſage wherein <hi>I</hi> was the chief Actor: It is a Love-Intrigue too; It was in the City of <hi>Ricanati,</hi> not far from our Lady of <hi>Lorettoes</hi> Chappel, where <hi>I</hi> liv'd when <hi>I</hi> went in Pilgrimage thither: and <hi>I</hi> was look'd upon (as <hi>I</hi> am here) to be a very Religious Man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>Was this in your pretended Return from <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> with the ſuppoſed Relicks?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Even ſo, for <hi>I</hi> happened to be Father-Confeſſor to a Lady there, who notwithſtanding the violent endea<g ref="char:EOLhyphen"/>vours of her Husband to the contrary, proved Barren: they were both equally deſirous of Children, which made her Husband requeſt her to have recourſe to my Prayers: ſhe, in the mean time, with my bleſſed Aſſiſtance uſed all natural means to obtain this Grace: in ſhort, af<g ref="char:EOLhyphen"/>ter two years Prayers with her in private, evident ſigns of a great Belly appear'd; at which <hi>I</hi> and the Lady ſeem'd mightily to rejoyce, poſſeſſing the good Husband that it proceeded from a Vow his Wife had made to Saint <hi>Gaeten,</hi> upon which the good man cauſed a Statue of Sil<g ref="char:EOLhyphen"/>ver to be founded, for his Wife to offer to this Saint: and <hi>I</hi> pleaſantly made 'um kneel before the Altar of the Saint, while <hi>I</hi> gave 'um my Bleſſing; the reſt of the Monks ſtanding at that inſtant; moſt Religiouſly jocund at the Devotion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>This was certainly your Maſter-piece. But your ſpeaking of our Lady of <hi>Loretto</hi>'s Chappel makes me deſire
+<pb n="28" facs="tcp:52623:18"/>
+to underſtand how it came to be ſo often removed, that <hi>I</hi> may know how this Story is contriv'd that hath ſham'd ſo many people: for tho <hi>I</hi> am in Orders, <hi>I</hi> could never yet learn the ſtory right.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Know then that this was our Ladyes habitation in the citty of <hi>Nazareth;</hi> and in the time of Pope <hi>Nicho<g ref="char:EOLhyphen"/>las,</hi> the fourth it hap'ned to be Miraculouſly looſned from the foundation and carried away in the Night (by a com<g ref="char:EOLhyphen"/>pany of Angels) as far as <hi>Sclavonia,</hi> to a place called <hi>Terſalto;</hi> adjoyning to the <hi>Adriatick</hi> Sea; which was a removeal of more than four thouſand miles, at the ari<g ref="char:EOLhyphen"/>val whereof the Inhabitants, in the morning were won<g ref="char:EOLhyphen"/>derfully ſurpriz'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>And in my mind they had a great deal of Reaſon; for doubtleſs none but Devils or better Beings could be capable of acting ſuch a Prodigy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>This houſe however continu'd there not long; for the Angels were willing to play the porters once more; ſo hoyſting it on their ſhoulders again, away through the air they trudge with it as far as a place called <hi>Ricanati,</hi> where they planted it in a wood adjoyning to the Sea: and becauſe it may be the ſooner believed we pretend to tell you the day of the month and year that this ſecond re<g ref="char:EOLhyphen"/>moveal hap'ned in which we ſay to be the tenth of <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> one thouſand two hundred ninety four. And tho' the wood was very dark, the Vertue of this Chappel ſpread a light all over it, brighter than the Sun in Summer, when no clouds caſts ſhadowes from the middle Region.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>I know the fame of this Miraculous houſe is ſpread all over the world, and the ſtory of it hath gained a con<g ref="char:EOLhyphen"/>ſiderable belief in moſt People.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>You ſpeak right, but this was not all; for the In<g ref="char:EOLhyphen"/>habitants of the place having there Chriſtned this houſe and given it the name it now bears; the Angels, for a very good reaſon thought fit not to let it remain there any longer, becauſe that place being the retreat of a great
+<pb n="29" facs="tcp:52623:18"/>
+many thieves and murderers that did abuſe and moleſt pilgrims that came thither, they gave it a third removeal to the top of a little hill, the ground were of was divided between two brothers, as their Inheritance, who quarelling one day for who ſhould enjoy the proffit of this houſe, the night following it was carried by the ſame Angels out of their poſſeſſion, and planted it in the great Road that goes to the Citty of <hi>Ricanati,</hi> where it ſtill is, frequented with as much Zeal as <hi>Mahomets</hi> Tomb at <hi>Mecha,</hi> and works more miracles than any other of our Ladyes chap<g ref="char:EOLhyphen"/>pels in the world.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>I Honour his memory that firſt made this mira<g ref="char:EOLhyphen"/>cle, there's no queſtion but it hath been almoſt as beneficial to our Clergy as the invention of purgatory, and praying for the dead.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>I'm afraid <hi>I</hi> have been too tedious in telling you this ſtory. But come let's not talk now of that, nor praying for the dead; I am for thinking on the liveing <hi>Florimel,</hi> my Lady Saint.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>And <hi>Iſabella</hi> mine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <l>To keep out care, and dull thoughts to remove</l>
+                     <l>Let's gaze upon beauty with eyes full of Love.</l>
+                  </sp>
+                  <stage>Exeunt ambo.</stage>
+               </div>
+               <div type="scene">
+                  <head>The Scaene changed to a Chamber;</head>
+                  <stage>Where is diſcover'd Florimel, in a Night-Dreſs, as newly roſe from Bed with Iſabella, two women, and Marforio.</stage>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Alas it is a ſtrange diſtemper, I am almoſt ſick to death; I am Senſible of the ſmart in every Vein.</p>
+                  </sp>
+                  <sp>
+                     <pb n="30" facs="tcp:52623:19"/>
+                     <speaker>Mar.</speaker>
+                     <p>Nay good Dear wife, oh law! I would not looſe my precious Duck, for the world.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Nay Sir I fear it the more becauſe all the Arts the Doctors have uſed cannot diſcover what the diſtemper is.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Nay good Neighbours what ſhall we do? alas my poor Chick. Nay I beſeeeh you Neighbours, is there no remedy? how doſt thou do my Dear Spouſe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>I am well enough to receive the cold impreſſion of a death that will prove unwelcome to me becauſe I muſt part from thee; I muſt go to bed again I fear, but pray Heaven I may riſe once again to enjoy thy company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Oh my poor wife, my poor wife! Neighbours what ſhall I do what ſhall I do?</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Wo.</hi>
+                     </speaker>
+                     <p>Truly Neighbour if you would take our advice I believe the only way to ſave her life will be to Implore the aſſiſtance of Saint <hi>Allivergot.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Wo.</hi>
+                     </speaker>
+                     <p>Indeed Neighbour I'm of your mind, for nothing can cure her now without a miracle, and to have recourſe to that Saints Relicks is the beſt means I think: for with the help of Heaven, and that holy man father <hi>Turbin</hi> they have done a wonderful many good things.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Ah thou bleſſed Saint, St. <hi>Allivergot</hi> have pitty on me or I am undone.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Wo.</hi>
+                     </speaker>
+                     <p>Did not I tell you ſo, pray Neighbour cauſe father <hi>Turbin</hi> to come and bring his Relicks with him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>
+                        <hi>Iſabella,</hi> go run, make haſte, quickly, looſe no time tell him my wife's dead and hath ſent for him to be curd by the help of thoſe Holy Relicks, go be gon <hi>I</hi> ſay.</p>
+                     <stage>Exit Iſabella,</stage>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Wo.</hi>
+                     </speaker>
+                     <p>Come Neighbour <hi>Florimel</hi> the power of this Holy mans Relicks are great, and <hi>I</hi> dare ſecure your health under the vertue of them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Say'ſt thou ſo Neighbour? dad you have very much reviv'd my heart, dad you have Neighbour, for <hi>I</hi> would not have my none Pigs nyes dye here, for the Popes Revenue, how doſt thou do Chick, hum?</p>
+                  </sp>
+                  <sp>
+                     <pb n="31" facs="tcp:52623:19"/>
+                     <speaker>Flor-</speaker>
+                     <p>Truly my Dear not well.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Have patience my Duck and thou ſhalt recieve eaſe preſently.</p>
+                  </sp>
+                  <stage>Enter Iſabella, Father Turbin and Father Lupin, with a little Box wherein the Rellicks are ſuppoſ'd to be encloſ'd; when they Enter the Box is ſet on a Table, they all fall upon their knees to it, and Father Turbin Croſſeth himſelf, and Bleſſeth them by moveing his hand.</stage>
+                  <sp>
+                     <speaker>All,</speaker>
+                     <p>Your Bleſſing good Father.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Wo.</hi>
+                     </speaker>
+                     <p>Oh ti's a pious man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Wo.</hi>
+                     </speaker>
+                     <p>'Tis a man of a moſt devout life and converſation.</p>
+                     <stage>Father <hi>Turbin</hi> approacheth <hi>Florimel</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Have you a firm and ſtedfaſt belief daughter in the Rellicks of this good Saint?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Alas Father you need not have put that queſtion to me ſince <hi>I</hi> am ſenſible I cannot be cur'd but by their help, and methinks from the firſt moment of your arrival here, I have al-ready found a Cheerful alteration in me, which none but your Holy preſence could have cauſed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Well Dear daughter I find the ſtrength of your faith hath effected this: how ever it will be neceſſary to begin, by confeſſion, to the end that the ſoul being purg'd the body may the ſooner obtain its priſtine health.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Wo.</hi>
+                     </speaker>
+                     <p>You ſay well Father, therefore if my advice may be taken we ſhould leave 'um together, that he may with the greater wiſedom diſpoſe of her conſcience.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Wo.</hi>
+                     </speaker>
+                     <p>My Neighbour here is in the Right, what ſay you ſenior <hi>Marforio?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Ay ſo ſhe is, therefore let's diſturb' um as little as we can, and be gone, my Dear, my ſweet, my Choice, my precious Sugar-candy, fare well for a day or two, be<g ref="char:EOLhyphen"/>cauſe buſineſs calls me into the Country, at my return I hope to find thee as pert as ever thou wert.</p>
+                  </sp>
+                  <sp>
+                     <pb n="32" facs="tcp:52623:20"/>
+                     <speaker>Flor,</speaker>
+                     <p>Farwell my Love.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>But hark you Father <hi>Turbin,</hi> pray be as careful of diſpoſing her Conſcience, as of reſtoring her health; d'e mind me? for that I love to take conſiderable care of too, my Chick once more adieu.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor</speaker>
+                     <p>Adieu my Dear.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Both Wo.</speaker>
+                     <p>Well Father, we recommend her to your prayers, and the vertue of thoſe Bleſſed Relicks, Neigh<g ref="char:EOLhyphen"/>bour Adieu. <stage>
+                           <hi>Exeunt Mar. and the</hi> two women manent <hi>Turb. Lup. Flor. and Iſabella.</hi>
+                        </stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Now let me feed on the Heavenly, moiſture of thy breath, and gather Roſes from the Gardens of thy Cheeks: Now that Religion hath play'd her part let Love, gentle Love, diſplay his ſoft raviſhing treaſures to Eager and Intranced Lovers: Now let him revel and fur<g ref="char:EOLhyphen"/>fit as with pleaſures: No time ſo fit as when Lovers pri<g ref="char:EOLhyphen"/>vate are; let's no advantage looſe, nor ſuffer beauty to be vainly waſted; let's Cloſely retire to partake of truer pleaſures than the guilded flow'ry ſpring produceth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>
+                        <hi>Shames treach'rous livery in my face appears,</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <l>
+                        <hi>Let nothing cauſe your bluſhes nor your fears.</hi>
+                     </l>
+                     <l>
+                        <hi>Nought here can tell what that kind bluſh did mean,</hi>
+                     </l>
+                     <l>
+                        <hi>So now we may bluſh ſport, and toy unſeen.</hi>
+                     </l>
+                     <stage>
+                        <hi>Exit Tur.</hi> and <hi>Flor.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <l>
+                        <hi>Now Daughter let us (not to loſe our pleaſures)</hi> to <hi>Iſabella</hi>
+                     </l>
+                     <l>
+                        <hi>Follow my Brothers and your Miſtriſs Meaſure.</hi>
+                     </l>
+                     <l>
+                        <hi>Let us then eagerly our Footſteps move,</hi>
+                     </l>
+                     <l>
+                        <hi>To undiſturbed Bowers of Flow'ry Love.</hi>
+                     </l>
+                  </sp>
+                  <stage>
+                     <hi>Exeunt Lup.</hi> and <hi>Iſabella.</hi>
+                  </stage>
+               </div>
+               <trailer>The end of the third Act.</trailer>
+            </div>
+            <div n="4" type="act">
+               <pb n="33" facs="tcp:52623:20"/>
+               <head>ACT IV.</head>
+               <div type="scene">
+                  <head>SCENE a Garden.</head>
+                  <stage>Enter <hi>Father Turbin</hi> and <hi>Florrinel.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>HArk! methinks Love commands us once more to cloſe retirement, where we may a<g ref="char:EOLhyphen"/>gain die in the Fields of Love and Beauty, where ſi<g ref="char:EOLhyphen"/>lent ſhades ſhall hide thy bluſhes, and pleaſure diſſolve thy fears.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>'Tis Love muſt bear the blame, not I, where he prevails, reſiſtance is in vain; when he commands I muſt ſubmit, to pant under thoſe ſweet and bitter pangs he gives me, till I die both with delight and pain.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Let me conduct thee then where Love ſhall com<g ref="char:EOLhyphen"/>pleat your wiſhes and heighten our Bliſs, let us every day during your Doctors abſence pay what we owe to Love: And while we are preparing to engage in Loves fierce harmleſs Liſts, as a ſeaſoning to our Joys, I have order'd one of our Chappel Eunuches to ſing a Song which Love Inſpir'd me to write.</p>
+                     <q>
+                        <l>Let Love the while direct our ſenſe to try</l>
+                        <l>Once more the pleaſures of his Victory.</l>
+                     </q>
+                  </sp>
+                  <stage>Exeunt <hi>hand in hand; then a Tune firſt play'd over on a Recorder, then a voice joyns with it and ſings the enſuing Song behind the Scene.</hi>
+                  </stage>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="song">
+                              <pb n="34" facs="tcp:52623:21"/>
+                              <head>SONG.</head>
+                              <lg n="1">
+                                 <head>1.</head>
+                                 <l>SInce love, youth, and beauty have rais'd the Allarms,</l>
+                                 <l>Go ſmother each other with lip-melting Charms,</l>
+                                 <l>And make no delay, leaſt your hopes you deceive,</l>
+                                 <l>A Moment once over, is hard to retrieve;</l>
+                                 <l>Diſſolve in moiſt Raptures, like freſh morning Dew,</l>
+                                 <l>And breath Love together, as Turtle Doves Woe.</l>
+                              </lg>
+                              <lg n="2">
+                                 <head>2.</head>
+                                 <l>In Loves painted Medows go Revel and Play,</l>
+                                 <l>But never</l>
+                                 <l>Give over</l>
+                                 <l>By Night nor by Day.</l>
+                                 <l>O're his riſing Hillocks with cheerfulneſs move,</l>
+                                 <l>And pleaſantly range in the Valley's of Love,</l>
+                                 <l>That Monarchs may envy the joys which you find,</l>
+                                 <l>Where cares are unknown, and where beauty proves kind.</l>
+                              </lg>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <stage>
+                     <hi>The Song ended, ſome body knocks at the door, then enters</hi> Iſabella <hi>half dreſs'd and half undreſs'd, as amaz'd, followed by Father</hi> Lupin.</stage>
+                  <sp>
+                     <pb n="35" facs="tcp:52623:21"/>
+                     <speaker>Iſa.</speaker>
+                     <p>O lamentable what ſhall we do? We are all un<g ref="char:EOLhyphen"/>done; Madam riſe, riſe, yonder's my Maſter at the door with two or three Neighbours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lu.</speaker>
+                     <p>Ay, what ſhall I do <hi>Iſabella?</hi> What ſhall I do? he will certainly make an Eunuch of me.</p>
+                  </sp>
+                  <stage>Enter <hi>Florrinel</hi> and <hi>Father Turbin.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Curſe upon him, was this obligingly done, to diſturb us thus in the midſt of our Pleaſures?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Come we have no time to talk now, <hi>Iſabella,</hi> give 'em the Key of the back Door, and let 'em be gone. Adieu, adieu.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lu.</speaker>
+                     <p>I'm afraid I ſhall not
+<stage>
+                           <hi>Gives</hi> Turbin <hi>the Key.</hi>
+                        </stage>
+fancy love ſo heartily as I have done, never was Mortal in ſuch fear of loſing his Man-hood before, as I was now. <stage>Aſide.</stage>
+                     </p>
+                  </sp>
+                  <stage>Exeunt the Two Fryars:</stage>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>
+                        <hi>Iſabella</hi> go let him in, here will I plant my ſelf ready to receive him at his entrance: I'm ſure there's no apparent reaſon for his ſuſpicion hitherto, and truly the practical part of Hypocriſie is a fine ſmooth thing, had it not been for that commendable Vertue; my Husband had miſs'd being one of the Dubb'd Brother<g ref="char:EOLhyphen"/>hood. But here he comes.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Marforio <hi>and Two Women.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>How doth my dear Duck do? I vow Chicken I could not ſtay from thee any longer, for the life of me,
+<pb n="36" facs="tcp:52623:22"/>
+having left thee ſick too; the thoughts of being from thee at ſuch a time hath made me ſob and cry my eyes out almoſt in the Countrey: but Dad I had not left thee at all, but that I had very earneſt buſineſs indeed. And Cods-fiſh let me look upon thee a little, Dad me<g ref="char:EOLhyphen"/>thinks my Chicken looks much better than ſhe did be<g ref="char:EOLhyphen"/>fore I went; how hath ſhe prov'd in my abſence, <hi>Iſa<g ref="char:EOLhyphen"/>bella?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Why Sir, ſhe having put her confidence in thoſe Holy Rellicks; the Vertues of them were warmly appli<g ref="char:EOLhyphen"/>ed to her every day, and have wrought (beyond our expectations) a wonderful Miracle: For ſhe is more than half cured, and is but newly roſe from paying a Devout Thankſgiving to the Bleſſed Saint that Cur'd her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flo.</speaker>
+                     <p>She ſpeaks truth my Love, for it is to that Im<g ref="char:EOLhyphen"/>mortal Saint and that Pious Mortal, Father <hi>Turbin,</hi> I owe my Life and Health; and your dear preſence Husband hath indeed added ſomething — of ſorrow. <stage>Aſide.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Wo.</hi>
+                     </speaker>
+                     <p>We ſeeing your Husbands Arrival at the door Neighbour, could not forbear to Viſit you too; and are glad that Heaven and this Saint have been ſo kind to you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Wo.</hi>
+                     </speaker>
+                     <p>Nay now Neighbour let this be the only Saint you will pray to, for the good he hath done your Wife.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Well! I'll give Father <hi>Turbin</hi> Three hundred Crowns to be employ'd for this Saints uſe in the Church: But well Chicken, how is it now? Doth ſhe lie eaſie and warm <hi>Iſabella?</hi> I muſt ſatisfie my ſelf in that, and
+<pb n="37" facs="tcp:52623:22"/>
+ſee what Bolſters, Pillows, Ruggs, Blankets and Bed<g ref="char:EOLhyphen"/>ding ſhe hath, or I ſhall enjoy no content, come <hi>Iſa<g ref="char:EOLhyphen"/>bella;</hi> come you along with me to her Bed-ſide.</p>
+                  </sp>
+                  <stage>
+                     <hi>He looks behind the Scene, and the while</hi> Iſabella <hi>runs haſtily to</hi> Florrinel.</stage>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Madam we are all undone, Father <hi>Turbin</hi> in the hurry juſt now hath left his Breeches on the Bed there, and my Maſter hath found them.</p>
+                  </sp>
+                  <stage>
+                     <hi>[Enter</hi> Marforio <hi>with the Breeches in his hands, he turns them about, and looks on them.]</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>What, what have I got here? By'r Lady a piece of Mans Breeches: Is this your private ſickly devout life, you female Devil you? Pretend to fall ſick to cor<g ref="char:EOLhyphen"/>nute your Husband! Very Fine! Tell me whoſe Breech<g ref="char:EOLhyphen"/>es theſe are, or by the Sun, Moon, and Seven Stars, I'll cut off thy Leggs, and ſtop every Hole about thee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>How unlucky is this? What ſhall I ſay?— Stay, I think my brain hath found out ſomething that may befriend me. <stage>Aſide.</stage>
+                     </p>
+                     <p>Husband why do you blame me thus without cauſe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>By'r Lady the Woman grows Diabollically Impudent. Without cauſe, quoth ſhe! No the finding your Gallants Breeches upon the Bed is no cauſe at all, nor no ſign that I am a Horned Animal, bear Witneſs Neighbours.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Hear me Husband, and I will ſatisfie you.</p>
+                  </sp>
+                  <sp>
+                     <pb n="38" facs="tcp:52623:23"/>
+                     <speaker>Mar.</speaker>
+                     <p>May be ſhe repents, and is going to confeſs the truth, I'll hear her. <stage>Aſide.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>You know Husband that being almoſt cur'd with ſo precious a Remedy, that to fall into a relapſe would put me into double danger of death, therefore by Father <hi>Turbin</hi>'s advice, I have kept the moſt power<g ref="char:EOLhyphen"/>ful part of the Sacred Relick near at hand; upon which I have offer'd up my Devotions every day.</p>
+                     <p>Theſe are the very Breeches that Saint <hi>Allivergot</hi> wore, when he reſided among Mortals: There<g ref="char:EOLhyphen"/>fore pray Husband conſider what they are, and uſe 'um more gently.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Dad I'm almoſt perſwaded ſhe ſpeaks truth. Well I'll lay 'um down upon this Chair, <stage>Lays 'um down.</stage>
+there they may he and cry out to the Wicked, <hi>Noli me tangere.</hi> Prithee my Duck excuſe my paſſionate diſcourſe juſt now, come one Buſs and be friends — So.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>How could you be ſo cruel Love, to injure my Innocence and Fidelity to thee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Come my Pigsny ſay no more, I was to blame, indeed I was to blame; therefore prithee for<g ref="char:EOLhyphen"/>give me but this time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flo.</speaker>
+                     <p>I am eaſily reconciled to ſo loving an Husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Now will I fly to inform Father <hi>Tur<g ref="char:EOLhyphen"/>bin</hi>
+                        <stage>Aſide.</stage>
+of what is paſt, and order him to fetch a<g ref="char:EOLhyphen"/>way the Holy Relick, in a ſolemn Proceſſion, to put the better Gloſs upon the matter.</p>
+                     <stage>Exit <hi>Iſabella.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <pb n="39" facs="tcp:52623:23"/>
+                     <speaker>1. <hi>Wo.</hi>
+                     </speaker>
+                     <p>Indeed Neighbour you was very much over<g ref="char:EOLhyphen"/>ſeen, in being ſo credulous to believe things contrary to your Wives Vertuous Inclination.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Wo.</hi>
+                     </speaker>
+                     <p>I dare ſweare ſhe would neither injure Heaven, nor you, by ſo ſinful and vile an act; ſhe is the trueſt Pattern of Piety, Modeſty, and Vertue, in the whole City of <hi>Rome;</hi> and I'm ſure ſhe loves her Husband as a good Wife ſhould do.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Poor Creature I am ſorry I ſhould be ſuch a Rogue tho: Come my pretty Chick one Buſs more, and then we are thorowly Friends again I hope.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>It was but a miſtake Honey, and I am ready to forgive thee all. <stage>Enter Iſabella.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Lack a day, what a good Wife have I godt Neigh<g ref="char:EOLhyphen"/>bours?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Wo.</hi>
+                     </speaker>
+                     <p>Such Wives are not to be found every where<g ref="char:punc">▪</g> I promiſe you that; had my Husband ſerv'd me, as you ſerv'd her, I'd have made the Houſe too hot to hold the Beaſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Yonder's Father <hi>Turbin</hi> coming in Proceſſion with ſome more Fryars, to fetch away the Holy Re<g ref="char:EOLhyphen"/>lick, I muſt lay it on that Table on a White Table Cloth againſt his Arrival.</p>
+                  </sp>
+                  <stage>
+                     <hi>She lays the Breeches in order; then Enters the Pro<g ref="char:EOLhyphen"/>ceſſion in this manner: Firſt, One that bears a Croſs, then Two Boys in White, bearing lighted Tapers in their hands, after them Four Fryars or more, Two by Two; Father</hi> Turbin <hi>brings up the Rear alone, being en<g ref="char:EOLhyphen"/>tred,
+<pb n="40" facs="tcp:52623:24"/>
+he wheels to the Front; bows Three times to the Holy Relick on the Table, the reſt imitating him. Enter ſome Rabble, who Croſs themſelves and do like the reſt.</hi>
+                  </stage>
+                  <stage>All Sing,
+<l>
+                        <hi>Sancte Allivergot,</hi>
+                     </l>
+                     <l>
+                        <hi>Ora pro nobis.</hi>
+                     </l>
+                  </stage>
+                  <stage>
+                     <hi>After which Father</hi> Turbin <hi>approacheth the Breeches, takes 'um very Ceremoniouſly and with a great many Bowings to the Earth, and firſt brings them to</hi> Marforio.</stage>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Here Senior, As you have received benefit by this Holy Relick, ſo it offers it ſelf firſt to you, to afford you the Bleſſing of a Kiſs, and by it you gain Pardons and Indulgences, <hi>a Pena &amp; Culpa,</hi> for Fourſcore thou<g ref="char:EOLhyphen"/>ſand years.</p>
+                  </sp>
+                  <stage>He kiſſeth it on his knees.</stage>
+                  <stage>
+                     <hi>To</hi> Florinel <hi>who doth the ſame.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>Now it offers it ſelf to you, dear Daughter; by it you gain a perpetual Pardon, it Abſolves you from all your Sins, paſt, preſent, and to come. To the reſt of theſe good people to whom I likewiſe preſent it, it gains 'um Pardons for Twenty years to come.</p>
+                  </sp>
+                  <stage>
+                     <hi>They all kiſs it on their knees, then</hi> Exit <hi>the Proceſſion, with the Breeches carried aloft on the Croſs; the Rabble ſinging,</hi> &amp;c.</stage>
+                  <sp>
+                     <pb n="41" facs="tcp:52623:24"/>
+                     <speaker>All Sing.</speaker>
+                     <l>
+                        <hi>In pace quiercat,</hi>
+                     </l>
+                     <l>
+                        <hi>Sancte Allivergot</hi>
+                     </l>
+                     <l>
+                        <hi>Ora pro Nobis.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Wo.</hi>
+                     </speaker>
+                     <p>Well Neighbour Adieu, I wiſh you all Health, Happineſs, and long Life.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Wo.</hi>
+                     </speaker>
+                     <p>I wiſh the ſame to you both.</p>
+                     <stage>Exeunt the Two Women.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Well Hony I'll retire into my Cloſet to my Devotion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Thou may'ſt do thy pleaſure my Precious.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>I muſt omit no opportunity of paying a Thankſ<g ref="char:EOLhyphen"/>giving to this Bleſſed Saint: Come you along with me <hi>Iſabella.</hi>
+                     </p>
+                  </sp>
+                  <stage>
+                     <hi>Exeunt</hi> Flor. <hi>and</hi> Iſab.</stage>
+                  <stage>
+                     <hi>Manet</hi> Marforio.</stage>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Dad for all my Wife is ſuch a Vertuous Wo<g ref="char:EOLhyphen"/>man, I can't forbear being jealous yet, ſhe's handome, and young, and skittiſh, and wanton, and witty, and good natur'd, to all which an Old Man being Marryed are evident ſigne that he is, or muſt be a Cuckold; did I once know the truth of it, I were out of my pain: But they ſay, There are ſome ſorts of Airs ſtrong e<g ref="char:EOLhyphen"/>nough to breed Cuckolds in, and this <hi>Roman</hi> Air is none of the beſt, for all it is under the Popes Noſe: Therefore I will prudently watch her hits, in order to
+<pb n="42" facs="tcp:52623:25"/>
+which I caus'd another Key to be privately made to my door, and I think to give out ſuddenly that I intend to go out of Town, tho I deſign the contrary.</p>
+                     <q>
+                        <l>Then I ſhall know if I have cauſe to be</l>
+                        <l>Troubl'd with this uneaſy Jealouſie.</l>
+                     </q>
+                  </sp>
+                  <stage>
+                     <hi>Exit</hi> Marforio.</stage>
+               </div>
+               <div type="scene">
+                  <head>The SCENE changeth to a Cloyſter.</head>
+                  <stage>Enter <hi>Father Turbin and Father Lupin.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <l>The noiſe of my Religious Life and Coat,</l>
+                     <l>Was falling from the eaſie crouds belief.</l>
+                     <l>When <hi>Florimel</hi> the Witty and the Fair,</l>
+                     <l>Supported ſtill my tottring State and Fame.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>The Sham paſt unſuſpected.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <l>— Nay ſhe muſt</l>
+                     <l>Doubtleſs her Pedigree from Angels fetch,</l>
+                     <l>Her thoughts move in a far more Glorious Sphere,</l>
+                     <l>Then like thoſe ſhut in this Courſe Globe of Clay:</l>
+                     <l>This worthy Object ſtill I'll entertain,</l>
+                     <l>And ever keep her in my Breaſt confin'd,</l>
+                     <l>I'll be her Priſoner and ſhe ſhall be mine,</l>
+                     <l>And wee'll each other tie with Chains of Love,</l>
+                     <l>Ne'r to be loos'ned but by envious Death.</l>
+                     <l>I muſt once more prepare with eager heat</l>
+                     <l>To meet my Loves cloſe, ſoft, dear, ſweet Embrace,</l>
+                     <l>And from her Lips I'll ſteal a Cherry Kiſs.</l>
+                     <l>
+                        <pb n="43" facs="tcp:52623:25"/>Then gently die upon her Snowy Breaſts.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <l>The laſt bout I'll tell you tho would have ſpoil'd</l>
+                     <l>The good Opinion I had of the Brat.</l>
+                     <l>I thought I ſhould diſlike his Bow and Dart.</l>
+                     <l>I like no ſower ſawce with Loves ſweet Viands.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <p>For Loves ſweet ſake you all things ſhould endure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>Not I, unleſs hee'd let me ſport ſecure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <l>At preſent let's no more of Love diſcourſe;</l>
+                     <l>Our Actions ſhall do more then all our words.</l>
+                     <l>What is the News at Court now? How's the Pope?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lu.</speaker>
+                     <l>He ſwells and frets at an immoderate rate,</l>
+                     <l>That he can't play his Game in Chriſtendome.</l>
+                     <l>And that which aggravates him much the more,</l>
+                     <l>Is one that asketh Counſel from the Stars;</l>
+                     <l>Who hath declared their Influences frown</l>
+                     <l>Upon the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>e and all the Roman State:</l>
+                     <l>That time draws nigh his Holineſs muſt fall,</l>
+                     <l>When he and his ſhall poorly be forgot,</l>
+                     <l>And none ſhall more upon his Throne Aſcend.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <l>Then all our Holy Cheats will help no more.</l>
+                     <l>But who is this great Student of the Stars?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <l>A Stranger, who hath had his juſt Reward,</l>
+                     <l>For he is in the Inquiſition ſhut.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <l>Nay then his Holineſs diſlik'd the News.</l>
+                     <l>I fear his Grandeur in the duſt will lie,</l>
+                     <l>When he who proudly did the World diſpiſe,</l>
+                     <l>Shall be more ſcorn'd then e're he Princes did.</l>
+                     <l>I mourn our Fate ſhould thus be chain'd to his.</l>
+                     <l>
+                        <hi>Innocent</hi> the Third firſt rais'd the <hi>Roman</hi> Throne</l>
+                     <l>
+                        <pb n="44" facs="tcp:52623:26"/>On Steps above the State of Temporal Crowns.</l>
+                     <l>By his Decree he could Correction give</l>
+                     <l>To all the Chriſtian Princes in the World.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <p>This very Pow'r the Popes ſtill proudly own.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <l>Nay more, no Emperor could then be own'd</l>
+                     <l>E're he had paid Obedience firſt to him.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lup.</speaker>
+                     <l>Nay then 'twas time for Princes to beware,</l>
+                     <l>Tho this great power was no more than Air.</l>
+                     <l>'Tis like the humour o'th <hi>Tartarian Cham,</hi>
+                     </l>
+                     <l>Who having Din'd, commands by Trumpet ſound</l>
+                     <l>A Proclamation to be iſſu'd forth</l>
+                     <l>That other Princes now have leave to Dine.</l>
+                     <l>But Ha! Who's here?</l>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Iſabella.</stage>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>One glad to ſee you both, if you will once more be lull'd a ſleep with Loves ſoft gentle Charms, if you will once more die, <stage>To <hi>Turbin.</hi>
+                        </stage> and dying be delighted with ſo ſweet a Death; follow me. The Old Dotard is gone out of Town again, and by my Ladies order I am come to fetch you to her, the laſt ſtorm is quite blown over now.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tur.</speaker>
+                     <l>Come let's this precious time not ſpend in waſte,</l>
+                     <l>But wing'd with Love let us move on with haſte.</l>
+                  </sp>
+                  <stage>Exeunt.</stage>
+               </div>
+               <div type="scene">
+                  <pb n="45" facs="tcp:52623:26"/>
+                  <head>The SCENE changeth to a Street.</head>
+                  <stage>
+                     <hi>Enter</hi> Marforio <hi>Solus.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Now ſhe thinks I am far enough off a dad, wherein ſhe is miſtaken: and I think I am a Cuckold, and fear I am not miſtaken; however I love to pry in<g ref="char:EOLhyphen"/>to the Nature of things, that I may be certified in the truth of the buſineſs. I have furniſhed my ſelf with a Counterfeit Key to find out her Intrigue. If ſhe hath a Gallant, I'll cauſe both her and him to be put into the Inquiſition. I'll take Two Neighbours with me for Wit<g ref="char:EOLhyphen"/>neſſes, bring a Gentleman of the White Rod with me, to carry him before his Holineſs.</p>
+                     <q>
+                        <l>And e're to morrow paſs, or vaniſh o're,</l>
+                        <l>I'll know if I'm a Cuckold, ſhe a Whore.</l>
+                     </q>
+                  </sp>
+                  <stage>
+                     <hi>Exit</hi> Mar.</stage>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <head>ACT. V.</head>
+               <div type="scene">
+                  <head>SCENE a Chamber.</head>
+                  <stage>
+                     <hi>Enter</hi> Marforio, <hi>Two Neighbours, with an Officer of the White Rod.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>SO ſoftly Neighbours, let's not walk too faſt, for fear of giving them notice; ſo, I'll peep
+<pb n="46" facs="tcp:52623:27"/>
+into her Chamber, and if there be <stage>Peeps behind the Scene.</stage> occaſion I'll call you. Oh Horri<g ref="char:EOLhyphen"/>ble! Monſtrous!</p>
+                     <p>Come Neighbours bear Witneſs what an undecent poſture they are in. Oh 'tis that Holy Devil <hi>Turbin</hi> that Cuckolds me thus, yonders the other Fryar a ſqueez<g ref="char:EOLhyphen"/>ing <hi>Iſabella</hi> too: I can't endure this, my Houſe is a rank Baudy-houſe, and I the principal Ornament of the Family.</p>
+                     <p>Ruſh in Sir, and ſhow the Staff of your Authority, and be ſure Neighbours do you help to ſecure 'um, for they may kill me you know.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter the Gentleman of the White Rod firſt behind the Scene, followed by the Two Neighbours and</hi> Marforio, <hi>ſome ſqueeks are heard, then re enters on the Stage the Two Neighbours having hold of the Two Fryars,</hi> Marforio <hi>holding</hi> Iſabella <hi>and the Gentleman of the White Rod</hi> Florimel.</stage>
+                  <sp>
+                     <speaker>Flor.</speaker>
+                     <p>Do but hear me Husband.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>No, not I, I think I have caught you and your Holy Stallion napping together now: Nay you may hold down your head Father, there's never a Relick left now to fetch away in Proceſſion: And you Mrs. <hi>Minks,</hi> that have been <stage>To Iſabella.</stage> my Wives Baud, and your own Whore all this time, you are ſilent I ſee too.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iſa.</speaker>
+                     <p>Neighbours you are to bear Witneſs here, how my
+<pb n="47" facs="tcp:52623:27"/>
+Maſter hath improv'd his quality, he is one of no mean Rank now, I'll aſſure you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>What do you jeer me? you ſhall have your due, you ſhall. Come away with 'um to his Holineſs, away with 'um.</p>
+                     <q>
+                        <l>I'll truſt no more a Pious outward ſhape,</l>
+                        <l>That mimiks inwardly the Crafty Ape.</l>
+                     </q>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <stage>The Scene changeth to the Popes Palace, where are diſcovered his Holineſs, a Car<g ref="char:EOLhyphen"/>dinal, and a Biſhop on each ſide of him in their Robes, with a Jeſuit, and Guards, and Attendants.</stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>All Princes labour to ſupport my State,</l>
+                     <l>And 'tis their duty not to ſee me fall.</l>
+                     <l>Nay 'th' Great Machine of Heaven, if I fall,</l>
+                     <l>Muſt all come tumbling down upon its Ruins;</l>
+                     <l>Angels and Saints, and all th' Immortal Powers.</l>
+                     <l>For I alone ſupport and keep 'um up:</l>
+                     <l>'Tis Heav'ns Int'reſt then to league with me,</l>
+                     <l>And ſince my fall would the whole World confound,</l>
+                     <l>Believe it cannot be, poor Star Informer,</l>
+                     <l>Thy skill hath now deceiv'd thee: But yet know</l>
+                     <l>
+                        <pb n="48" facs="tcp:52623:28"/>Your Learning I'll encourage, I intend</l>
+                     <l>To ſend him as my <hi>Nuncio,</hi> into Heav'n,</l>
+                     <l>To let St. <hi>Peter</hi> know ſome News from us.</l>
+                     <l>Let him be Wrack'd to Death, go ſee it done.</l>
+                     <l>But what have we here?</l>
+                  </sp>
+                  <stage>Exit one of the Attendants.</stage>
+                  <stage>
+                     <hi>Enter</hi> Marforio, Florimel, Iſabella, Turbin, Lu<g ref="char:EOLhyphen"/>pin, <hi>Two Neighbours, and the Gentleman of the White Rod.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>May it pleaſe your Holineſs, I am come to have a very foul buſineſs decided before you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Speak what it is, that I may Juſtice do.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>And pleaſe your Holineſs it was a very foul buſineſs. This Devil <stage>To <hi>Turbin.</hi>
+                        </stage> in the Habit of a Prieſt, is a greater lover of Pleaſure than Religion; he hath ſeduc'd, cor<g ref="char:EOLhyphen"/>rupted, defil'd and abus'd the Body and Boſome of my own dear ſelf.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Of your own ſelf? Explain it more at large, That I may reach your meaning —</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>The meaning is, that I and my ſelf are all one, and pleaſe your Holineſs, and this ſenſe-ſeeking Prieſt hath abus'd us both.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>If we muſt do you Right, then ſpeak more plain, I underſtand you not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>my own dear Second-ſelf, the Wife of my Body here, and pleaſe you, this painted, juggling, ſelf-pleaſing
+<pb n="49" facs="tcp:52623:28"/>
+Epicurean Prieſt, hath ſeduc'd from the paths of Heaven and Vertue, ſupplied my place, in perform<g ref="char:EOLhyphen"/>ing that Act that none but I ſhould do: he hath ex<g ref="char:EOLhyphen"/>ceeded the Rules of his Office, for he both Confeſs'd and Abſolv'd her as ſhe was lying: he hath likewiſe diſ<g ref="char:EOLhyphen"/>figur'd the curious Workmanſhip of Nature, for he hath made me, that was once a Man, and her Lord and Maſter, a Monſter, worſe than a Satyr, a deform<g ref="char:EOLhyphen"/>ed Beaſt of the Horned Crew. Theſe honeſt Men, and pleaſe your Holineſs, can bear Witneſs of what I ſay; for they ſaw all: Now I begg Juſtice upon both theſe Fryars (for the other was in the mean time as eagerly buſie with my Maid <hi>Iſabella</hi>) and that my Wife and my Maid may receive condign puniſhment.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>I'll do you Juſtice, <hi>Turbin</hi> thou didſt well,</l>
+                     <l>But prithee have a care of Marriage ſins.</l>
+                     <l>To ſin and have a Law to prove it juſt,</l>
+                     <l>A Law contriv'd and forg'd by ſinful Man,</l>
+                     <l>To ſtrain and force Nature that Gen'rous Miſtriſs,</l>
+                     <l>I ſee no ſin in what hath yet been told:</l>
+                     <l>Or if there be, 'tis leſs than Venial.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <p>Oh Horrible! Nay then I ſee what redreſs I ſhall have. <stage>Aſide.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>Keep ſingle <hi>Turbin,</hi> and obey the Church,</l>
+                     <l>Or elſe Perdition ſhall purſue thee cloſe.</l>
+                     <l>Lie with what Women may your fancy pleaſe,</l>
+                     <l>That's greater honeſty than is a Wife:</l>
+                     <l>To have a Wive's a ſin too great for Pardon.</l>
+                     <l>
+                        <hi>Marforio</hi> your Wife is ne'r the worſe,</l>
+                     <l>
+                        <pb n="50" facs="tcp:52623:29"/>For ſo devout and glorious an Embrace:</l>
+                     <l>For he hath ſhown her now Coeleſtial Joys,</l>
+                     <l>And learn'd her to be wiſe and holy too.</l>
+                     <l>So I command you, take her with you home,</l>
+                     <l>Be kind to her and to this Reverend Prieſt:</l>
+                     <l>Give him admittance too, when e're he pleaſe</l>
+                     <l>To come to her Confeſſion any more.</l>
+                     <l>
+                        <hi>Marforio</hi> be ſure you do our will.</l>
+                     <l>The Inquiſition elſe ſhall make you bend.</l>
+                     <l>Now you unto your Convents may retire,</l>
+                     <l>To live ſecure, warm'd with Religious Fire.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mar.</speaker>
+                     <l>I obey and pleaſe your Holineſs in all.</l>
+                     <l>Come Honey, come I love thee well enough tho ſtill:</l>
+                     <l>But 'tis becauſe I dare not ſay otherwiſe. <stage>Aſide.</stage>
+                     </l>
+                  </sp>
+                  <stage>Exeunt Omnes <hi>but the</hi> Pope, Odcroff <hi>the Jeſuit, the Biſhop, Cardinal, Guards and Atten<g ref="char:EOLhyphen"/>dants,</hi> &amp;c.</stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>Come <hi>Odcroff</hi> is the Conjuration fix'd,</l>
+                     <l>For I muſt know what thoſe good Fathers did</l>
+                     <l>For th' Honour of the Church, and us Popes.</l>
+                     <l>How 'twas they made themſelves and us thus great.</l>
+                     <l>What Ceremonies they patch'd together,</l>
+                     <l>To paint and guild our Images and Shrines.</l>
+                     <l>I'd likewiſe know the utmoſt of our Fate,</l>
+                     <l>How kind Heav'n is to us, our Church and State.</l>
+                     <l>I've Faith enough to think they can do more,</l>
+                     <l>
+                        <pb n="51" facs="tcp:52623:29"/>Than the poor Star gazer could do before,</l>
+                     <l>Yet he hath had his Loan —</l>
+                  </sp>
+                  <sp>
+                     <speaker>Od.</speaker>
+                     <l>— Sir your commands,</l>
+                     <l>I'm ready to perform with utmoſt Skill,</l>
+                     <l>The Charm is wound up to its higheſt pitch.</l>
+                     <l>Great Sir you may command when they appear</l>
+                     <l>What things you'd ſee, or what it is you'd hear.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>Haſte then unto performance—</l>
+                  </sp>
+                  <stage>Makes Marks on the ground with a White Wan.</stage>
+                  <sp>
+                     <speaker>Odcr.</speaker>
+                     <l>— Sir I ſhall.</l>
+                     <l>And thus I firſt begin to do your will.</l>
+                     <l>Ye Fleeting Shades that whisk about the Air,</l>
+                     <l>From Eaſt and Weſt, from North and South repair</l>
+                     <l>Through Icye Poles, thick Foggs, and Silver Light,</l>
+                     <l>And paſs the Twinkling Orb o'th milky white.</l>
+                     <l>Let every Planet cheerfully Combine</l>
+                     <l>To Favour your ſwift pace and our Deſign,</l>
+                     <l>With Sextiles Smiles, and with a pleaſing Trine.</l>
+                     <l>Exalt no Star above his fame and worth,</l>
+                     <l>Baniſh the Dragons Tail beneath the Earth.</l>
+                     <l>From all bad Aſpects let us too be free,</l>
+                     <l>And ye o'th Fiery Triplicity.</l>
+                     <l>
+                        <hi>Sordo, Heroth, Ventiloth</hi> and <hi>Arcto,</hi>
+                     </l>
+                     <l>Your <hi>Cacodemons</hi> ſend with pow'r below.</l>
+                     <l>From the Four Regions, let 'um forthwith flie,</l>
+                     <l>And fiercely penetrate the yielding Skye.</l>
+                     <l>
+                        <pb n="52" facs="tcp:52623:30"/>Let 'um in no affrighting Shapes appear,</l>
+                     <l>But yield ſuch Forms as may beget no fear.</l>
+                     <l>Four Priſtine Monarchs of the Papal Throne,</l>
+                     <l>I ſummon to appear each with his Crown,</l>
+                     <l>And by this Wan command ye to fulfil,</l>
+                     <l>In all reſpects our Holy Fathers Will. <stage>[Makes a Cir<g ref="char:EOLhyphen"/>cle juſt by the Pope.]</stage>
+                     </l>
+                     <l>Move not beyond this Geomantick Trace,</l>
+                     <l>Your power reacheth not beyond this ſpace.</l>
+                     <l>Appear, appear now, without more delay,</l>
+                     <l>And to his Holineſs your duties pay.</l>
+                  </sp>
+                  <stage>
+                     <hi>A Flaſh of Lightning from behind the Scenes, then appears on one ſide of the Stage the Ghoſt of Pope</hi> Clement <hi>the Firſt, and</hi> Bo<g ref="char:EOLhyphen"/>niface <hi>the Eighth; and on the other ſide, the Ghoſt of Pope</hi> Gregory <hi>the Third, and</hi> Inno<g ref="char:EOLhyphen"/>cent <hi>the Third.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Clem.</speaker>
+                     <l>Great Mortal God, we're come to do thy Will.</l>
+                     <l>We once became that Seat as well as thee,</l>
+                     <l>And did thoſe things as might become a Pope.</l>
+                     <l>
+                        <hi>Clement</hi> the Firſt, they call'd me when I ſway'd,</l>
+                     <l>And had that God-like power thou haſt now.</l>
+                     <l>I firſt ordain'd that Crowns ſhould ſubject be</l>
+                     <l>To <hi>Romes</hi> great Church, and own no Head but me</l>
+                     <l>In Temporal and Spiritual degree.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>'Twas a brave Conſtitution, now worn old:</l>
+                     <l>As we are great, 'tis fit we ſhould be bold.</l>
+                     <l>But who are you pray?—</l>
+                  </sp>
+                  <sp>
+                     <pb n="53" facs="tcp:52623:30"/>
+                     <speaker>Bon.</speaker>
+                     <l>— <hi>Boniface</hi> the Eighth.</l>
+                     <l>I in a Solemn Feſtival appear'd,</l>
+                     <l>In Glittering Pomp, as did my Grandeur ſute.</l>
+                     <l>Th' amazed Multitude upon me gaz'd,</l>
+                     <l>As on ſome God drop't from his Chriſtal Heav'n:</l>
+                     <l>The Mortals did me on their Shoulders bear,</l>
+                     <l>When I did beam my Bleſſing on them all,</l>
+                     <l>Which by my Fingers Motion they perceiv'd.</l>
+                     <l>The next day in Imperial Robes being deck'd,</l>
+                     <l>By my command I had before me bore</l>
+                     <l>A Naked Sword, the Mule of's Rider proud,</l>
+                     <l>Mov'd on in State, while I did loudly cry,</l>
+                     <l>See here Two Swords, and Lord of all the World</l>
+                     <l>As well in Spirit'al as Temp'ral things.</l>
+                     <l>I am that mighty Pope, of whom Men ſay</l>
+                     <l>I like Lyon liv'd; and Fox bore ſway:</l>
+                     <l>And like a Dog my life conſum'd away.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>All your Succeſſors have obliged been</l>
+                     <l>For th' pious care you took to make 'um great.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Grego.</speaker>
+                     <l>Now give an Ear, and mark what I'm to ſay,</l>
+                     <l>I am call'd <hi>Gregory</hi> of that Name the Third:</l>
+                     <l>I made a Law that Images ſhould be</l>
+                     <l>In Churches not for Lay-mens Books alone,</l>
+                     <l>But that Men ſhould 'um honour and adore</l>
+                     <l>With greater Reverence than they did before.</l>
+                     <l>When I it lawful thought, all knew 'twas juſt.</l>
+                     <l>For all to ſin are ſubject, except Popes:</l>
+                     <l>And whoſoever did 'gainſt this Law offend,</l>
+                     <l>Was for an Heretick forthwith condemn'd.</l>
+                  </sp>
+                  <sp>
+                     <pb n="54" facs="tcp:52623:31"/>
+                     <speaker>Inno.</speaker>
+                     <l>Now he hath ſpoke, pray Brother Pope hear me.</l>
+                     <l>I'm <hi>Innocent</hi> the Third, an harmleſs Name,</l>
+                     <l>'Twas I brought in Auricular Confeſſion.</l>
+                     <l>What Godly Plots have by that Art been made</l>
+                     <l>To ruin and deſtroy poor Maiden Heads?</l>
+                     <l>Beſides I with Eight hundred Fry'rs and more,</l>
+                     <l>O'th' Romiſh Clergy firſt devis'd and made</l>
+                     <l>The ſenſeleſs knack Tranſubſtantiation call'd.</l>
+                     <l>Never no Pope was look'd upon as Wife,</l>
+                     <l>That did not ſome gay thing for th'Church deviſe;</l>
+                     <l>Which like a Sun-beam dazles peoples Eyes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>Thou haſt done well, but now I would know more,</l>
+                     <l>How long ſhall <hi>Rome</hi>'s Head and Religion live?</l>
+                     <l>Speak boldly, let me know my utmoſt Fate.</l>
+                  </sp>
+                  <stage>A Voice from behind the Scene.</stage>
+                  <sp>
+                     <speaker>Voice.</speaker>
+                     <l>That task is mine, and none but I muſt do't.</l>
+                     <l>Thy empty Glory's ſhortly ſhall decay:</l>
+                     <l>A Star ſhall riſe, whoſe Golden conquering Light,</l>
+                     <l>Shall thy puff'd Luciferial Pride be night.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Od.</speaker>
+                     <l>Who e'r thou art, the Charm reach'd not to thee.</l>
+                     <l>Begon I ſay, or elſe thy miſery,</l>
+                     <l>Shall be greater. —</l>
+                  </sp>
+                  <sp>
+                     <speaker>Voice.</speaker>
+                     <p>— Fooliſh Conjurer, 'Tis more than thou canſt do, and the mighty Charm extends to me ſooner then unto theſe moſt Canonized, Tyrannizing Fops.</p>
+                  </sp>
+                  <stage>
+                     <pb n="55" facs="tcp:52623:31"/>
+                     <hi>Enter the Ghoſt of Pope</hi> Joan <hi>in long diſhe<g ref="char:EOLhyphen"/>vell'd hair like an</hi> Amazon.</stage>
+                  <sp>
+                     <speaker>P. Joan.</speaker>
+                     <p>I am Pope <hi>Joan</hi> ye Scoundrel Ragamuffins and pamper'd Swine, and ye have blotted me out of your Kallender with a murrain to you, as if you were aſham'd to own a Woman Popes Infallibility. I'd have you to know for all that, you Religious Baboons ye, that I was as Infallible as the beſt of you: I was Infal<g ref="char:EOLhyphen"/>libly made Pope by my great parts and learning, in which capacity I remain'd Two years, a month, and four days; I afterwards was infallibly got with-child by my private Gallant, and I was infallibly deliver'd in the Street of a fine Boy, when we both died: and ye for<g ref="char:EOLhyphen"/>ſooth are now ſo pamper'd up with your Pride, that you have wilfully forgot me; nay your Holineſs have ever ſince been aſhamed to paſs through that Street wherein I was deliver'd; and moreover you have en<g ref="char:EOLhyphen"/>deavour'd to perſwade people that my Story was a Fa<g ref="char:EOLhyphen"/>ble, tho <hi>Platina</hi> and ſome others of your old Friends and Cronies, have notwithſtanding done me Juſtice and told truth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>Ghoſt th' art impudent to diſgrace us thus.</l>
+                     <l>Thy preſence needleſs is. —</l>
+                  </sp>
+                  <sp>
+                     <speaker>Odc.</speaker>
+                     <p>Therefore be gone.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope Jo.</speaker>
+                     <l>I will not, muſt not, cannot, till I've ſpoke</l>
+                     <l>My mind at large, ye fine Bauble-makers:</l>
+                     <l>Your Trade is gulling, and your care is raking.</l>
+                     <l>
+                        <pb n="56" facs="tcp:52623:32"/>Without a Sale of Purgatorian Souls,</l>
+                     <l>Your Tripple Crowns would never ſhine ſo bright,</l>
+                     <l>Princes you make your Culleys: <hi>Boniface</hi>
+                     </l>
+                     <l>The Eighth, that precious Ghoſt that's here,</l>
+                     <l>He proudly writ to <hi>Philip</hi> King of <hi>France,</hi>
+                     </l>
+                     <l>That he muſt be acknowledg'd Lord of all,</l>
+                     <l>Temporal, as well as Spiritual:</l>
+                     <l>And that therefore he ought to have receiv'd</l>
+                     <l>His Kingdom <hi>France</hi> from his moſt holy hand;</l>
+                     <l>Which ſince he had not done, the Monſter Pope,</l>
+                     <l>Did moſt unjuſtly Excommunicate</l>
+                     <l>The mighty King, whoſe ill Fate I deplore,</l>
+                     <l>And gave his Crown to <hi>Albert</hi> th' Emperor.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Bon.</speaker>
+                     <p>'Twas holy Zeal that prompted me unto it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope Jo.</speaker>
+                     <l>No 'twas Pride and Int'reſt made you do it.</l>
+                     <l>And pray how have you all employ'd your time,</l>
+                     <l>When you liv'd i'th' World, but in contriving</l>
+                     <l>Such Fooleries as would make ſorrow her ſelf ſmile.</l>
+                     <l>Some of you have ſpent your times in introducing</l>
+                     <p>The Adoration of the Croſs, commanding Prayers for the Dead, forbidding Marriage to the Clergy, Bleſſing ſome Medal, forbidding the Eating of Flesh in Lent, commanding Lamps to be burnt in Churches, placing among the number of Saints, Men better qualified for Devils; permitting Hermitages in Forreſts, that un<g ref="char:EOLhyphen"/>der that pretence Travellers may be more ſecurely Rob'd: Ordaining the Relicks of Saints to be Kiſs'd and Ador'd, appointing Set Forms of Conjuring Devils, commanding Incenſe to be offer'd to Images, granting
+<pb n="57" facs="tcp:52623:32"/>
+Temporal and perpetual Indulgences, and thus the whole Courſe of your Lives is inventing of Toys and Fooleries, to cheat and gull the world with.</p>
+                     <q>
+                        <l>But now the World will learn to be more wiſe,</l>
+                        <l>And not be Chous'd with Romiſh Fopperies.</l>
+                     </q>
+                  </sp>
+                  <sp>
+                     <speaker>Odcr.</speaker>
+                     <l>Thy reſtleſs Clack, I think will ne're have done,</l>
+                     <l>Thou'rt a true Womans Ghoſt, yet will't be gone.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope Jo.</speaker>
+                     <l>No ſtill I've ſomething more to ſay to you.</l>
+                     <l>Our Church is on ſuch weak Foundations laid,</l>
+                     <l>As long it cannot ſtand —</l>
+                     <l>'Tis built on Medals, and on Cowls of Monks,</l>
+                     <l>Nuns-hoods, and Cenſers, Diſciplining Whips,</l>
+                     <l>Chains, Cords full of knots, and Images,</l>
+                     <l>Bonnets of various Colours, Sandals, Cloggs,</l>
+                     <l>Pantoffles, and Miters Pontifical,</l>
+                     <l>Cardinals Hats, Vails Hypocritical,</l>
+                     <l>Green Hats, and Girdles, Bulls, Relicks of Saints,</l>
+                     <l>Sophſtry, and Books of Controverſie.</l>
+                     <l>All theſe, and many more which I could name,</l>
+                     <l>Are the great Props t'uphold the mighty Frame.</l>
+                     <l>It ſtands but ſhiv'ring, and a ſolid Gale</l>
+                     <l>From <hi>Albian,</hi> will make proud <hi>Rome</hi> bewail.</l>
+                  </sp>
+                  <stage>
+                     <hi>Exit Pope</hi> Joan.</stage>
+                  <sp>
+                     <speaker>Clem.</speaker>
+                     <l>We have almoſt our time out-ſtaid;</l>
+                     <l>They wait for us beneath, among the Shades:</l>
+                     <l>Say, mighty Negromancer, ſhall we go?</l>
+                  </sp>
+                  <sp>
+                     <pb n="58" facs="tcp:52623:33"/>
+                     <speaker>Odcr.</speaker>
+                     <l>You ſhall, but firſt his Holineſs divert</l>
+                     <l>With ſome Infernal Dance.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Gre.</speaker>
+                     <p>We'll obey.</p>
+                  </sp>
+                  <stage>
+                     <hi>A Flaſh of Lightning, then Enters Four Devils, who dance an Antick, then</hi> Exeunt <hi>with the Popes.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <l>It is no matter what the World doth know,</l>
+                     <l>Altho this Ghoſt hath told us of our own,</l>
+                     <l>Still we will be (as doth become us) Great,</l>
+                     <l>And Valiantly contemn both Heav'n and Hell.</l>
+                     <l>By Turkiſh Pollicy we'll ſtill ſupport</l>
+                     <l>The trembling Fabrick of the <hi>Romane</hi> State.</l>
+                     <l>The weak and fooliſh Hereticks I defie:</l>
+                     <l>My God-like power ne're ſhall know decay,</l>
+                     <l>The World no other Deity ſhall obey.</l>
+                     <l>And ſince I thus my claim to th' World make clear,</l>
+                     <l>I will maintain it, tho it coſt me dear.</l>
+                     <stage>Exeunt Omnes.</stage>
+                  </sp>
+               </div>
+            </div>
+         </div>
+         <div type="epilogue">
+            <pb facs="tcp:52623:33"/>
+            <head>
+               <hi>THE EPILOGUE</hi> To be ſpoke by <hi>Florimel.</hi>
+            </head>
+            <l>GAllants with eager haſte I'm to you come,</l>
+            <l>to know what rugged and ill favour'd Doom.</l>
+            <l>you've giv'n the Poet, he knows what you'll ſay,</l>
+            <l>That 'tis a damn'd notorious Whiggiſh Play.</l>
+            <l>For ſome of ye are wiſe in Folly yet,</l>
+            <l>And know no more what's Whiggiſh, than what's Wit.</l>
+            <l>For your Religion, which may want a Name,</l>
+            <l>You'r ſo, becauſe your Mother was the ſame.</l>
+            <l>And tho to pleaſe ye, we have now t'ane care,</l>
+            <l>We know ye better lik'd the Pope i'th' Faire.</l>
+            <l>You'r Tory's Rampant, if as Whiggs you doom</l>
+            <l>All thoſe that can't Cajole the Pope of <hi>Rome.</hi>
+            </l>
+            <l>He takes your Damming to be far more worſe,</l>
+            <l>Than the ſevereſt proudeſt Roman Curſe.</l>
+            <l>Becauſe I tell you ſo, now Damn him do,</l>
+            <l>With as much honour ye may ſave him too.</l>
+            <l>Be as indifferent for the <hi>Roman</hi> Cauſe,</l>
+            <l>As I was fervent to obey Loves Laws,</l>
+            <l>Be kind to Love with as much heat as I,</l>
+            <l>Then I dare ſwear you will not let him die.</l>
+            <l>Look not a ſquint upon my Holy Fryar,</l>
+            <l>Whoſe Zeal was Love, heightned with warm deſire.</l>
+            <l>
+               <pb facs="tcp:52623:34" rendition="simple:additions"/>But think as I do, that he was a Saint,</l>
+            <l>Whoſe youthful Piety, made him my Gallant.</l>
+            <l>I know kind hearts, that for the ſake of Love,</l>
+            <l>You'll ſlit your Tongues 'ere they to Damming move.</l>
+            <l>I fear the Men, the Ladies minds I know.</l>
+            <l>They'll grant our Pope a ſmile, hee's not their Foe.</l>
+            <l>To Love, and you he ne're was yet unkind,</l>
+            <l>He's the true Pattern of a Generous Mind.</l>
+            <l>He'll give ye Diſpenſations what ye pleaſe,</l>
+            <l>So ye to him your Conſciences will eaſe.</l>
+            <l>But ſtill Gallants, if you'll a damning be,</l>
+            <l>Spare Pope and Poet; for their Crimes Damn me.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
